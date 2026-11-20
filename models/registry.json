@@ -1,0 +1,151 @@
+{
+ "champion": {
+  "half_life_days": 365.0,
+  "ridge_driver": 0.3,
+  "ridge_car": 0.3,
+  "link": 1.0,
+  "link_new_rules": 0.3,
+  "window_seasons": 4,
+  "use_quali": true,
+  "use_sprint": true
+ },
+ "chosen": "2026-11-20 on 2005-2012 races only (models/tuning_2005_2012.json): pos_rps within 0.0001 of the best setting, better winner log loss",
+ "history": [
+  {
+   "date": "2026-11-20",
+   "event": "initial champion",
+   "params": {
+    "half_life_days": 365.0,
+    "ridge_driver": 0.3,
+    "ridge_car": 0.3,
+    "link": 1.0,
+    "link_new_rules": 0.3,
+    "window_seasons": 4,
+    "use_quali": true,
+    "use_sprint": true
+   }
+  },
+  {
+   "date": "2026-11-20",
+   "event": "backtest",
+   "calibration_gate": [
+    {
+     "stage": "post",
+     "score": "win_ll",
+     "raw": 1.39917,
+     "calibrated": 1.29117,
+     "difference": -0.108,
+     "ci_low": -0.15429,
+     "ci_high": -0.06076,
+     "p": 0.0,
+     "races": 291
+    },
+    {
+     "stage": "post",
+     "score": "win_brier",
+     "raw": 0.63463,
+     "calibrated": 0.60891,
+     "difference": -0.02572,
+     "ci_low": -0.04704,
+     "ci_high": -0.00429,
+     "p": 0.0215,
+     "races": 291
+    },
+    {
+     "stage": "post",
+     "score": "podium_brier",
+     "raw": 0.06712,
+     "calibrated": 0.06576,
+     "difference": -0.00136,
+     "ci_low": -0.00215,
+     "ci_high": -0.00059,
+     "p": 0.001,
+     "races": 291
+    },
+    {
+     "stage": "post",
+     "score": "points_brier",
+     "raw": 0.15303,
+     "calibrated": 0.15227,
+     "difference": -0.00075,
+     "ci_low": -0.00138,
+     "ci_high": -0.00013,
+     "p": 0.0195,
+     "races": 291
+    },
+    {
+     "stage": "pre",
+     "score": "win_ll",
+     "raw": 1.74847,
+     "calibrated": 1.69628,
+     "difference": -0.05219,
+     "ci_low": -0.08901,
+     "ci_high": -0.01199,
+     "p": 0.0135,
+     "races": 291
+    },
+    {
+     "stage": "pre",
+     "score": "win_brier",
+     "raw": 0.7559,
+     "calibrated": 0.75718,
+     "difference": 0.00129,
+     "ci_low": -0.01349,
+     "ci_high": 0.01653,
+     "p": 0.867,
+     "races": 291
+    },
+    {
+     "stage": "pre",
+     "score": "podium_brier",
+     "raw": 0.0809,
+     "calibrated": 0.08007,
+     "difference": -0.00083,
+     "ci_low": -0.00169,
+     "ci_high": -0.0,
+     "p": 0.0495,
+     "races": 291
+    },
+    {
+     "stage": "pre",
+     "score": "points_brier",
+     "raw": 0.16704,
+     "calibrated": 0.16613,
+     "difference": -0.00091,
+     "ci_low": -0.00177,
+     "ci_high": -4e-05,
+     "p": 0.0405,
+     "races": 291
+    }
+   ]
+  }
+ ],
+ "calibration": {
+  "post": {
+   "win_power": 1.591381738292007,
+   "podium_platt": [
+    0.4358402948212252,
+    1.3884220226855737
+   ],
+   "points_platt": [
+    0.020385404470656697,
+    1.1301877442431663
+   ],
+   "rows": 2695,
+   "seasons": "2021-2026"
+  },
+  "pre": {
+   "win_power": 1.4845887130910567,
+   "podium_platt": [
+    0.34103339190428383,
+    1.2937910627512843
+   ],
+   "points_platt": [
+    0.011171698470257922,
+    1.121826246185321
+   ],
+   "rows": 2695,
+   "seasons": "2021-2026"
+  }
+ }
+}

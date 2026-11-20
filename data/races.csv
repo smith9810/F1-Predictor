@@ -1,0 +1,1173 @@
+race_id,season,round,date,time_utc,gp,name,circuit,circuit_type,laps,qualifying_date,qualifying_time,sprint,folder
+1,1950,1,1950-05-13,,great-britain,1950 RAC British Grand Prix,silverstone,RACE,70,,,False,01-great-britain
+2,1950,2,1950-05-21,,monaco,Grand Prix de Monaco 1950,monaco,STREET,100,,,False,02-monaco
+3,1950,3,1950-05-30,,indianapolis,1950 Indianapolis 500,indianapolis,RACE,138,,,False,03-indianapolis
+4,1950,4,1950-06-04,,switzerland,Grosser Preis der Schweiz 1950,bremgarten,ROAD,42,,,False,04-switzerland
+5,1950,5,1950-06-18,,belgium,1950 Belgian Grand Prix,spa-francorchamps,ROAD,35,,,False,05-belgium
+6,1950,6,1950-07-02,,france,Grand Prix de France 1950,reims,ROAD,64,,,False,06-france
+7,1950,7,1950-09-03,,italy,Gran Premio d'Italia 1950,monza,RACE,80,,,False,07-italy
+8,1951,1,1951-05-27,,switzerland,Grosser Preis der Schweiz 1951,bremgarten,ROAD,42,,,False,01-switzerland
+9,1951,2,1951-05-30,,indianapolis,1951 Indianapolis 500,indianapolis,RACE,200,,,False,02-indianapolis
+10,1951,3,1951-06-17,,belgium,1951 Belgian Grand Prix,spa-francorchamps,ROAD,36,,,False,03-belgium
+11,1951,4,1951-07-01,,france,Grand Prix de France 1951,reims,ROAD,77,,,False,04-france
+12,1951,5,1951-07-14,,great-britain,1951 RAC British Grand Prix,silverstone,RACE,90,,,False,05-great-britain
+13,1951,6,1951-07-29,,germany,Grosser Preis von Deutschland 1951,nurburgring,ROAD,20,,,False,06-germany
+14,1951,7,1951-09-16,,italy,Gran Premio d'Italia 1951,monza,RACE,80,,,False,07-italy
+15,1951,8,1951-10-28,,spain,Gran Premio de España 1951,pedralbes,STREET,70,,,False,08-spain
+16,1952,1,1952-05-18,,switzerland,Grosser Preis der Schweiz 1952,bremgarten,ROAD,62,,,False,01-switzerland
+17,1952,2,1952-05-30,,indianapolis,1952 Indianapolis 500,indianapolis,RACE,200,,,False,02-indianapolis
+18,1952,3,1952-06-22,,belgium,1952 Belgian Grand Prix,spa-francorchamps,ROAD,36,,,False,03-belgium
+19,1952,4,1952-07-06,,france,Grand Prix de France 1952,rouen,ROAD,77,,,False,04-france
+20,1952,5,1952-07-19,,great-britain,1952 RAC British Grand Prix,silverstone,RACE,85,,,False,05-great-britain
+21,1952,6,1952-08-03,,germany,Grosser Preis von Deutschland 1952,nurburgring,ROAD,18,,,False,06-germany
+22,1952,7,1952-08-17,,netherlands,Grote Prijs van Nederland 1952,zandvoort,RACE,90,,,False,07-netherlands
+23,1952,8,1952-09-07,,italy,Gran Premio d'Italia 1952,monza,RACE,80,,,False,08-italy
+24,1953,1,1953-01-18,,argentina,Gran Premio de Argentina 1953,buenos-aires,RACE,97,,,False,01-argentina
+25,1953,2,1953-05-30,,indianapolis,1953 Indianapolis 500,indianapolis,RACE,200,,,False,02-indianapolis
+26,1953,3,1953-06-07,,netherlands,Grote Prijs van Nederland 1953,zandvoort,RACE,90,,,False,03-netherlands
+27,1953,4,1953-06-21,,belgium,1953 Belgian Grand Prix,spa-francorchamps,ROAD,36,,,False,04-belgium
+28,1953,5,1953-07-05,,france,Grand Prix de France 1953,reims,ROAD,60,,,False,05-france
+29,1953,6,1953-07-18,,great-britain,1953 RAC British Grand Prix,silverstone,RACE,90,,,False,06-great-britain
+30,1953,7,1953-08-02,,germany,Grosser Preis von Deutschland 1953,nurburgring,ROAD,18,,,False,07-germany
+31,1953,8,1953-08-23,,switzerland,Grosser Preis der Schweiz 1953,bremgarten,ROAD,65,,,False,08-switzerland
+32,1953,9,1953-09-13,,italy,Gran Premio d'Italia 1953,monza,RACE,80,,,False,09-italy
+33,1954,1,1954-01-17,,argentina,Gran Premio de Argentina 1954,buenos-aires,RACE,87,,,False,01-argentina
+34,1954,2,1954-05-31,,indianapolis,1954 Indianapolis 500,indianapolis,RACE,200,,,False,02-indianapolis
+35,1954,3,1954-06-20,,belgium,1954 Belgian Grand Prix,spa-francorchamps,ROAD,36,,,False,03-belgium
+36,1954,4,1954-07-04,,france,Grand Prix de France 1954,reims,ROAD,61,,,False,04-france
+37,1954,5,1954-07-17,,great-britain,1954 RAC British Grand Prix,silverstone,RACE,90,,,False,05-great-britain
+38,1954,6,1954-08-01,,germany,Grosser Preis von Deutschland 1954,nurburgring,ROAD,22,,,False,06-germany
+39,1954,7,1954-08-22,,switzerland,Grosser Preis der Schweiz 1954,bremgarten,ROAD,66,,,False,07-switzerland
+40,1954,8,1954-09-05,,italy,Gran Premio d'Italia 1954,monza,RACE,80,,,False,08-italy
+41,1954,9,1954-10-24,,spain,Gran Premio de España 1954,pedralbes,STREET,80,,,False,09-spain
+42,1955,1,1955-01-16,,argentina,Gran Premio de Argentina 1955,buenos-aires,RACE,96,,,False,01-argentina
+43,1955,2,1955-05-22,,monaco,Grand Prix de Monaco 1955,monaco,STREET,100,,,False,02-monaco
+44,1955,3,1955-05-30,,indianapolis,1955 Indianapolis 500,indianapolis,RACE,200,,,False,03-indianapolis
+45,1955,4,1955-06-05,,belgium,1955 Belgian Grand Prix,spa-francorchamps,ROAD,36,,,False,04-belgium
+46,1955,5,1955-06-19,,netherlands,Grote Prijs van Nederland 1955,zandvoort,RACE,100,,,False,05-netherlands
+47,1955,6,1955-07-16,,great-britain,1955 RAC British Grand Prix,aintree,ROAD,90,,,False,06-great-britain
+48,1955,7,1955-09-11,,italy,Gran Premio d'Italia 1955,monza,RACE,50,,,False,07-italy
+49,1956,1,1956-01-22,,argentina,Gran Premio de Argentina 1956,buenos-aires,RACE,98,,,False,01-argentina
+50,1956,2,1956-05-13,,monaco,Grand Prix de Monaco 1956,monaco,STREET,100,,,False,02-monaco
+51,1956,3,1956-05-30,,indianapolis,1956 Indianapolis 500,indianapolis,RACE,200,,,False,03-indianapolis
+52,1956,4,1956-06-03,,belgium,1956 Belgian Grand Prix,spa-francorchamps,ROAD,36,,,False,04-belgium
+53,1956,5,1956-07-01,,france,Grand Prix de France 1956,reims,ROAD,61,,,False,05-france
+54,1956,6,1956-07-14,,great-britain,1956 RAC British Grand Prix,silverstone,RACE,101,,,False,06-great-britain
+55,1956,7,1956-08-05,,germany,Grosser Preis von Deutschland 1956,nurburgring,ROAD,22,,,False,07-germany
+56,1956,8,1956-09-02,,italy,Gran Premio d'Italia 1956,monza,RACE,50,,,False,08-italy
+57,1957,1,1957-01-13,,argentina,Gran Premio de Argentina 1957,buenos-aires,RACE,100,,,False,01-argentina
+58,1957,2,1957-05-19,,monaco,Grand Prix de Monaco 1957,monaco,STREET,105,,,False,02-monaco
+59,1957,3,1957-05-30,,indianapolis,1957 Indianapolis 500,indianapolis,RACE,200,,,False,03-indianapolis
+60,1957,4,1957-07-07,,france,Grand Prix de France 1957,rouen,ROAD,77,,,False,04-france
+61,1957,5,1957-07-20,,great-britain,1957 RAC British Grand Prix,aintree,ROAD,90,,,False,05-great-britain
+62,1957,6,1957-08-04,,germany,Grosser Preis von Deutschland 1957,nurburgring,ROAD,22,,,False,06-germany
+63,1957,7,1957-08-18,,pescara,Gran Premio di Pescara 1957,pescara,ROAD,18,,,False,07-pescara
+64,1957,8,1957-09-08,,italy,Gran Premio d'Italia 1957,monza,RACE,87,,,False,08-italy
+65,1958,1,1958-01-19,,argentina,Gran Premio de Argentina 1958,buenos-aires,RACE,80,,,False,01-argentina
+66,1958,2,1958-05-18,,monaco,Grand Prix de Monaco 1958,monaco,STREET,100,,,False,02-monaco
+67,1958,3,1958-05-26,,netherlands,Grote Prijs van Nederland 1958,zandvoort,RACE,75,,,False,03-netherlands
+68,1958,4,1958-05-30,,indianapolis,1958 Indianapolis 500,indianapolis,RACE,200,,,False,04-indianapolis
+69,1958,5,1958-06-15,,belgium,1958 Belgian Grand Prix,spa-francorchamps,ROAD,24,,,False,05-belgium
+70,1958,6,1958-07-06,,france,Grand Prix de France 1958,reims,ROAD,50,,,False,06-france
+71,1958,7,1958-07-19,,great-britain,1958 RAC British Grand Prix,silverstone,RACE,75,,,False,07-great-britain
+72,1958,8,1958-08-03,,germany,Grosser Preis von Deutschland 1958,nurburgring,ROAD,15,,,False,08-germany
+73,1958,9,1958-08-24,,portugal,Grande Prémio de Portugal 1958,porto,STREET,50,,,False,09-portugal
+74,1958,10,1958-09-07,,italy,Gran Premio d'Italia 1958,monza,RACE,70,,,False,10-italy
+75,1958,11,1958-10-19,,morocco,1958 Morocco Grand Prix,ain-diab,ROAD,53,,,False,11-morocco
+76,1959,1,1959-05-10,,monaco,Grand Prix de Monaco 1959,monaco,STREET,100,,,False,01-monaco
+77,1959,2,1959-05-30,,indianapolis,1959 Indianapolis 500,indianapolis,RACE,200,,,False,02-indianapolis
+78,1959,3,1959-05-31,,netherlands,Grote Prijs van Nederland 1959,zandvoort,RACE,75,,,False,03-netherlands
+79,1959,4,1959-07-05,,france,Grand Prix de France 1959,reims,ROAD,50,,,False,04-france
+80,1959,5,1959-07-18,,great-britain,1959 RAC British Grand Prix,aintree,ROAD,75,,,False,05-great-britain
+81,1959,6,1959-08-02,,germany,Grosser Preis von Deutschland 1959,avus,ROAD,60,,,False,06-germany
+82,1959,7,1959-08-23,,portugal,Grande Prémio de Portugal 1959,monsanto,STREET,62,,,False,07-portugal
+83,1959,8,1959-09-13,,italy,Gran Premio d'Italia 1959,monza,RACE,72,,,False,08-italy
+84,1959,9,1959-12-12,,united-states,1959 United States Grand Prix,sebring,ROAD,42,,,False,09-united-states
+85,1960,1,1960-02-07,,argentina,Gran Premio de Argentina 1960,buenos-aires,RACE,80,,,False,01-argentina
+86,1960,2,1960-05-29,,monaco,Grand Prix de Monaco 1960,monaco,STREET,100,,,False,02-monaco
+87,1960,3,1960-05-30,,indianapolis,1960 Indianapolis 500,indianapolis,RACE,200,,,False,03-indianapolis
+88,1960,4,1960-06-06,,netherlands,Grote Prijs van Nederland 1960,zandvoort,RACE,75,,,False,04-netherlands
+89,1960,5,1960-06-19,,belgium,1960 Belgian Grand Prix,spa-francorchamps,ROAD,36,,,False,05-belgium
+90,1960,6,1960-07-03,,france,Grand Prix de France 1960,reims,ROAD,50,,,False,06-france
+91,1960,7,1960-07-16,,great-britain,1960 RAC British Grand Prix,silverstone,RACE,77,,,False,07-great-britain
+92,1960,8,1960-08-14,,portugal,Grande Prémio de Portugal 1960,porto,STREET,55,,,False,08-portugal
+93,1960,9,1960-09-04,,italy,Gran Premio d'Italia 1960,monza,RACE,50,,,False,09-italy
+94,1960,10,1960-11-20,,united-states,1960 United States Grand Prix,riverside,RACE,75,,,False,10-united-states
+95,1961,1,1961-05-14,,monaco,Grand Prix de Monaco 1961,monaco,STREET,100,,,False,01-monaco
+96,1961,2,1961-05-22,,netherlands,Grote Prijs van Nederland 1961,zandvoort,RACE,75,,,False,02-netherlands
+97,1961,3,1961-06-18,,belgium,1961 Belgian Grand Prix,spa-francorchamps,ROAD,30,,,False,03-belgium
+98,1961,4,1961-07-02,,france,Grand Prix de France 1961,reims,ROAD,52,,,False,04-france
+99,1961,5,1961-07-15,,great-britain,1961 RAC British Grand Prix,aintree,ROAD,75,,,False,05-great-britain
+100,1961,6,1961-08-06,,germany,Grosser Preis von Deutschland 1961,nurburgring,ROAD,15,,,False,06-germany
+101,1961,7,1961-09-10,,italy,Gran Premio d'Italia 1961,monza,RACE,43,,,False,07-italy
+102,1961,8,1961-10-08,,united-states,1961 United States Grand Prix,watkins-glen,RACE,100,,,False,08-united-states
+103,1962,1,1962-05-20,,netherlands,Grote Prijs van Nederland 1962,zandvoort,RACE,80,,,False,01-netherlands
+104,1962,2,1962-06-03,,monaco,Grand Prix de Monaco 1962,monaco,STREET,100,,,False,02-monaco
+105,1962,3,1962-06-17,,belgium,1962 Belgian Grand Prix,spa-francorchamps,ROAD,32,,,False,03-belgium
+106,1962,4,1962-07-08,,france,Grand Prix de France 1962,rouen,ROAD,54,,,False,04-france
+107,1962,5,1962-07-21,,great-britain,1962 RAC British Grand Prix,aintree,ROAD,75,,,False,05-great-britain
+108,1962,6,1962-08-05,,germany,Grosser Preis von Deutschland 1962,nurburgring,ROAD,15,,,False,06-germany
+109,1962,7,1962-09-16,,italy,Gran Premio d'Italia 1962,monza,RACE,86,,,False,07-italy
+110,1962,8,1962-10-07,,united-states,1962 United States Grand Prix,watkins-glen,RACE,100,,,False,08-united-states
+111,1962,9,1962-12-29,,south-africa,South African Grand Prix 1962,east-london,RACE,82,,,False,09-south-africa
+112,1963,1,1963-05-26,,monaco,Grand Prix de Monaco 1963,monaco,STREET,100,,,False,01-monaco
+113,1963,2,1963-06-09,,belgium,1963 Belgian Grand Prix,spa-francorchamps,ROAD,32,,,False,02-belgium
+114,1963,3,1963-06-23,,netherlands,Grote Prijs van Nederland 1963,zandvoort,RACE,80,,,False,03-netherlands
+115,1963,4,1963-06-30,,france,Grand Prix de France 1963,reims,ROAD,53,,,False,04-france
+116,1963,5,1963-07-20,,great-britain,1963 RAC British Grand Prix,silverstone,RACE,82,,,False,05-great-britain
+117,1963,6,1963-08-04,,germany,Grosser Preis von Deutschland 1963,nurburgring,ROAD,15,,,False,06-germany
+118,1963,7,1963-09-08,,italy,Gran Premio d'Italia 1963,monza,RACE,86,,,False,07-italy
+119,1963,8,1963-10-06,,united-states,1963 United States Grand Prix,watkins-glen,RACE,110,,,False,08-united-states
+120,1963,9,1963-10-27,,mexico,Gran Premio de México 1963,mexico-city,RACE,65,,,False,09-mexico
+121,1963,10,1963-12-28,,south-africa,South African Grand Prix 1963,east-london,RACE,85,,,False,10-south-africa
+122,1964,1,1964-05-10,,monaco,Grand Prix de Monaco 1964,monaco,STREET,100,,,False,01-monaco
+123,1964,2,1964-05-24,,netherlands,Grote Prijs van Nederland 1964,zandvoort,RACE,80,,,False,02-netherlands
+124,1964,3,1964-06-14,,belgium,1964 Belgian Grand Prix,spa-francorchamps,ROAD,32,,,False,03-belgium
+125,1964,4,1964-06-28,,france,Grand Prix de France 1964,rouen,ROAD,57,,,False,04-france
+126,1964,5,1964-07-11,,great-britain,1964 RAC British Grand Prix,brands-hatch,RACE,80,,,False,05-great-britain
+127,1964,6,1964-08-02,,germany,Grosser Preis von Deutschland 1964,nurburgring,ROAD,15,,,False,06-germany
+128,1964,7,1964-08-23,,austria,Grosser Preis von Österreich 1964,zeltweg,ROAD,105,,,False,07-austria
+129,1964,8,1964-09-06,,italy,Gran Premio d'Italia 1964,monza,RACE,78,,,False,08-italy
+130,1964,9,1964-10-04,,united-states,1964 United States Grand Prix,watkins-glen,RACE,110,,,False,09-united-states
+131,1964,10,1964-10-25,,mexico,Gran Premio de México 1964,mexico-city,RACE,65,,,False,10-mexico
+132,1965,1,1965-01-01,,south-africa,South African Grand Prix 1965,east-london,RACE,85,,,False,01-south-africa
+133,1965,2,1965-05-30,,monaco,Grand Prix de Monaco 1965,monaco,STREET,100,,,False,02-monaco
+134,1965,3,1965-06-13,,belgium,1965 Belgian Grand Prix,spa-francorchamps,ROAD,32,,,False,03-belgium
+135,1965,4,1965-06-27,,france,Grand Prix de France 1965,clermont-ferrand,ROAD,40,,,False,04-france
+136,1965,5,1965-07-10,,great-britain,1965 RAC British Grand Prix,silverstone,RACE,80,,,False,05-great-britain
+137,1965,6,1965-07-18,,netherlands,Grote Prijs van Nederland 1965,zandvoort,RACE,80,,,False,06-netherlands
+138,1965,7,1965-08-01,,germany,Grosser Preis von Deutschland 1965,nurburgring,ROAD,15,,,False,07-germany
+139,1965,8,1965-09-12,,italy,Gran Premio d'Italia 1965,monza,RACE,76,,,False,08-italy
+140,1965,9,1965-10-03,,united-states,1965 United States Grand Prix,watkins-glen,RACE,110,,,False,09-united-states
+141,1965,10,1965-10-24,,mexico,Gran Premio de México 1965,mexico-city,RACE,65,,,False,10-mexico
+142,1966,1,1966-05-22,,monaco,Grand Prix de Monaco 1966,monaco,STREET,100,,,False,01-monaco
+143,1966,2,1966-06-12,,belgium,1966 Belgian Grand Prix,spa-francorchamps,ROAD,28,,,False,02-belgium
+144,1966,3,1966-07-03,,france,Grand Prix de France 1966,reims,ROAD,48,,,False,03-france
+145,1966,4,1966-07-16,,great-britain,1966 RAC British Grand Prix,brands-hatch,RACE,80,,,False,04-great-britain
+146,1966,5,1966-07-24,,netherlands,Grote Prijs van Nederland 1966,zandvoort,RACE,90,,,False,05-netherlands
+147,1966,6,1966-08-07,,germany,Grosser Preis von Deutschland 1966,nurburgring,ROAD,15,,,False,06-germany
+148,1966,7,1966-09-04,,italy,Gran Premio d'Italia 1966,monza,RACE,68,,,False,07-italy
+149,1966,8,1966-10-02,,united-states,1966 United States Grand Prix,watkins-glen,RACE,108,,,False,08-united-states
+150,1966,9,1966-10-23,,mexico,Gran Premio de México 1966,mexico-city,RACE,65,,,False,09-mexico
+151,1967,1,1967-01-02,,south-africa,South African Grand Prix 1967,kyalami,RACE,80,,,False,01-south-africa
+152,1967,2,1967-05-07,,monaco,Grand Prix de Monaco 1967,monaco,STREET,100,,,False,02-monaco
+153,1967,3,1967-06-04,,netherlands,Grote Prijs van Nederland 1967,zandvoort,RACE,90,,,False,03-netherlands
+154,1967,4,1967-06-18,,belgium,1967 Belgian Grand Prix,spa-francorchamps,ROAD,28,,,False,04-belgium
+155,1967,5,1967-07-02,,france,Grand Prix de France 1967,bugatti,RACE,80,,,False,05-france
+156,1967,6,1967-07-15,,great-britain,1967 RAC British Grand Prix,silverstone,RACE,80,,,False,06-great-britain
+157,1967,7,1967-08-06,,germany,Grosser Preis von Deutschland 1967,nurburgring,ROAD,15,,,False,07-germany
+158,1967,8,1967-08-27,,canada,Player's Canadian Grand Prix 1967,mosport,RACE,90,,,False,08-canada
+159,1967,9,1967-09-10,,italy,Gran Premio d'Italia 1967,monza,RACE,68,,,False,09-italy
+160,1967,10,1967-10-01,,united-states,1967 United States Grand Prix,watkins-glen,RACE,108,,,False,10-united-states
+161,1967,11,1967-10-22,,mexico,Gran Premio de México 1967,mexico-city,RACE,65,,,False,11-mexico
+162,1968,1,1968-01-01,,south-africa,South African Grand Prix 1968,kyalami,RACE,80,,,False,01-south-africa
+163,1968,2,1968-05-12,,spain,Gran Premio de España 1968,jarama,RACE,90,,,False,02-spain
+164,1968,3,1968-05-26,,monaco,Grand Prix de Monaco 1968,monaco,STREET,80,,,False,03-monaco
+165,1968,4,1968-06-09,,belgium,1968 Belgian Grand Prix,spa-francorchamps,ROAD,28,,,False,04-belgium
+166,1968,5,1968-06-23,,netherlands,Grote Prijs van Nederland 1968,zandvoort,RACE,90,,,False,05-netherlands
+167,1968,6,1968-07-07,,france,Grand Prix de France 1968,rouen,ROAD,60,,,False,06-france
+168,1968,7,1968-07-20,,great-britain,1968 RAC British Grand Prix,brands-hatch,RACE,80,,,False,07-great-britain
+169,1968,8,1968-08-04,,germany,Grosser Preis von Deutschland 1968,nurburgring,ROAD,14,,,False,08-germany
+170,1968,9,1968-09-08,,italy,Gran Premio d'Italia 1968,monza,RACE,68,,,False,09-italy
+171,1968,10,1968-09-22,,canada,Player's Canadian Grand Prix 1968,mont-tremblant,RACE,90,,,False,10-canada
+172,1968,11,1968-10-06,,united-states,1968 United States Grand Prix,watkins-glen,RACE,108,,,False,11-united-states
+173,1968,12,1968-11-03,,mexico,Gran Premio de México 1968,mexico-city,RACE,65,,,False,12-mexico
+174,1969,1,1969-03-01,,south-africa,South African Grand Prix 1969,kyalami,RACE,80,,,False,01-south-africa
+175,1969,2,1969-05-04,,spain,Gran Premio de España 1969,montjuic,STREET,90,,,False,02-spain
+176,1969,3,1969-05-18,,monaco,Grand Prix de Monaco 1969,monaco,STREET,80,,,False,03-monaco
+177,1969,4,1969-06-21,,netherlands,Grote Prijs van Nederland 1969,zandvoort,RACE,90,,,False,04-netherlands
+178,1969,5,1969-07-06,,france,Grand Prix de France 1969,clermont-ferrand,ROAD,38,,,False,05-france
+179,1969,6,1969-07-19,,great-britain,1969 RAC British Grand Prix,silverstone,RACE,84,,,False,06-great-britain
+180,1969,7,1969-08-03,,germany,Grosser Preis von Deutschland 1969,nurburgring,ROAD,14,,,False,07-germany
+181,1969,8,1969-09-07,,italy,Gran Premio d'Italia 1969,monza,RACE,68,,,False,08-italy
+182,1969,9,1969-09-20,,canada,Player's Canadian Grand Prix 1969,mosport,RACE,90,,,False,09-canada
+183,1969,10,1969-10-05,,united-states,1969 United States Grand Prix,watkins-glen,RACE,108,,,False,10-united-states
+184,1969,11,1969-10-19,,mexico,Gran Premio de México 1969,mexico-city,RACE,65,,,False,11-mexico
+185,1970,1,1970-03-07,,south-africa,South African Grand Prix 1970,kyalami,RACE,80,,,False,01-south-africa
+186,1970,2,1970-04-19,,spain,Gran Premio de España 1970,jarama,RACE,90,,,False,02-spain
+187,1970,3,1970-05-10,,monaco,Grand Prix de Monaco 1970,monaco,STREET,80,,,False,03-monaco
+188,1970,4,1970-06-07,,belgium,1970 Belgian Grand Prix,spa-francorchamps,ROAD,28,,,False,04-belgium
+189,1970,5,1970-06-21,,netherlands,Grote Prijs van Nederland 1970,zandvoort,RACE,80,,,False,05-netherlands
+190,1970,6,1970-07-05,,france,Grand Prix de France 1970,clermont-ferrand,ROAD,38,,,False,06-france
+191,1970,7,1970-07-18,,great-britain,1970 RAC British Grand Prix,brands-hatch,RACE,80,,,False,07-great-britain
+192,1970,8,1970-08-02,,germany,Grosser Preis von Deutschland 1970,hockenheimring,RACE,50,,,False,08-germany
+193,1970,9,1970-08-16,,austria,Grosser Preis von Österreich 1970,spielberg,RACE,60,,,False,09-austria
+194,1970,10,1970-09-06,,italy,Gran Premio d'Italia 1970,monza,RACE,68,,,False,10-italy
+195,1970,11,1970-09-20,,canada,Player's Canadian Grand Prix 1970,mont-tremblant,RACE,90,,,False,11-canada
+196,1970,12,1970-10-04,,united-states,1970 United States Grand Prix,watkins-glen,RACE,108,,,False,12-united-states
+197,1970,13,1970-10-25,,mexico,Gran Premio de México 1970,mexico-city,RACE,65,,,False,13-mexico
+198,1971,1,1971-03-06,,south-africa,South African Grand Prix 1971,kyalami,RACE,79,,,False,01-south-africa
+199,1971,2,1971-04-18,,spain,Gran Premio de España 1971,montjuic,STREET,75,,,False,02-spain
+200,1971,3,1971-05-23,,monaco,Grand Prix de Monaco 1971,monaco,STREET,80,,,False,03-monaco
+201,1971,4,1971-06-20,,netherlands,Grote Prijs van Nederland 1971,zandvoort,RACE,70,,,False,04-netherlands
+202,1971,5,1971-07-04,,france,Grand Prix de France 1971,paul-ricard,RACE,55,,,False,05-france
+203,1971,6,1971-07-17,,great-britain,1971 Woolmark British Grand Prix,silverstone,RACE,68,,,False,06-great-britain
+204,1971,7,1971-08-01,,germany,Grosser Preis von Deutschland 1971,nurburgring,ROAD,12,,,False,07-germany
+205,1971,8,1971-08-15,,austria,Grosser Preis von Österreich 1971,spielberg,RACE,54,,,False,08-austria
+206,1971,9,1971-09-05,,italy,Gran Premio d'Italia 1971,monza,RACE,55,,,False,09-italy
+207,1971,10,1971-09-19,,canada,Player's Canadian Grand Prix 1971,mosport,RACE,64,,,False,10-canada
+208,1971,11,1971-10-03,,united-states,1971 United States Grand Prix,watkins-glen,RACE,59,,,False,11-united-states
+209,1972,1,1972-01-23,,argentina,Gran Premio de Argentina 1972,buenos-aires,RACE,95,,,False,01-argentina
+210,1972,2,1972-03-04,,south-africa,South African Grand Prix 1972,kyalami,RACE,79,,,False,02-south-africa
+211,1972,3,1972-05-01,,spain,Gran Premio de España 1972,jarama,RACE,90,,,False,03-spain
+212,1972,4,1972-05-14,,monaco,Grand Prix de Monaco 1972,monaco,STREET,80,,,False,04-monaco
+213,1972,5,1972-06-04,,belgium,1972 Belgian Grand Prix,nivelles,RACE,85,,,False,05-belgium
+214,1972,6,1972-07-02,,france,Grand Prix de France 1972,clermont-ferrand,ROAD,38,,,False,06-france
+215,1972,7,1972-07-15,,great-britain,1972 John Player British Grand Prix,brands-hatch,RACE,76,,,False,07-great-britain
+216,1972,8,1972-07-30,,germany,Grosser Preis von Deutschland 1972,nurburgring,ROAD,14,,,False,08-germany
+217,1972,9,1972-08-13,,austria,Grosser Preis von Österreich 1972,spielberg,RACE,54,,,False,09-austria
+218,1972,10,1972-09-10,,italy,Gran Premio d'Italia 1972,monza,RACE,55,,,False,10-italy
+219,1972,11,1972-09-24,,canada,Labatt's Canadian Grand Prix 1972,mosport,RACE,80,,,False,11-canada
+220,1972,12,1972-10-08,,united-states,1972 United States Grand Prix,watkins-glen,RACE,59,,,False,12-united-states
+221,1973,1,1973-01-28,,argentina,Gran Premio de Argentina 1973,buenos-aires,RACE,96,,,False,01-argentina
+222,1973,2,1973-02-11,,brazil,Grande Prêmio do Brasil 1973,interlagos,RACE,40,,,False,02-brazil
+223,1973,3,1973-03-03,,south-africa,South African Grand Prix 1973,kyalami,RACE,79,,,False,03-south-africa
+224,1973,4,1973-04-29,,spain,Gran Premio de España 1973,montjuic,STREET,75,,,False,04-spain
+225,1973,5,1973-05-20,,belgium,1973 Belgian Grand Prix,zolder,RACE,70,,,False,05-belgium
+226,1973,6,1973-06-03,,monaco,Grand Prix de Monaco 1973,monaco,STREET,78,,,False,06-monaco
+227,1973,7,1973-06-17,,sweden,Hitachi Sveriges Grand Prix 1973,anderstorp,RACE,80,,,False,07-sweden
+228,1973,8,1973-07-01,,france,Grand Prix de France 1973,paul-ricard,RACE,54,,,False,08-france
+229,1973,9,1973-07-14,,great-britain,1973 John Player British Grand Prix,silverstone,RACE,67,,,False,09-great-britain
+230,1973,10,1973-07-29,,netherlands,Grote Prijs van Nederland 1973,zandvoort,RACE,72,,,False,10-netherlands
+231,1973,11,1973-08-05,,germany,Grosser Preis von Deutschland 1973,nurburgring,ROAD,14,,,False,11-germany
+232,1973,12,1973-08-19,,austria,Grosser Preis von Österreich 1973,spielberg,RACE,54,,,False,12-austria
+233,1973,13,1973-09-09,,italy,Gran Premio d'Italia 1973,monza,RACE,55,,,False,13-italy
+234,1973,14,1973-09-23,,canada,Labatt's Canadian Grand Prix 1973,mosport,RACE,80,,,False,14-canada
+235,1973,15,1973-10-07,,united-states,1973 United States Grand Prix,watkins-glen,RACE,59,,,False,15-united-states
+236,1974,1,1974-01-13,,argentina,Gran Premio de Argentina 1974,buenos-aires,RACE,53,,,False,01-argentina
+237,1974,2,1974-01-27,,brazil,Grande Prêmio do Brasil 1974,interlagos,RACE,32,,,False,02-brazil
+238,1974,3,1974-03-30,,south-africa,Lucky Strike Grand Prix of South Africa 1974,kyalami,RACE,78,,,False,03-south-africa
+239,1974,4,1974-04-28,,spain,Gran Premio de España 1974,jarama,RACE,84,,,False,04-spain
+240,1974,5,1974-05-12,,belgium,1974 Belgian Grand Prix,nivelles,RACE,85,,,False,05-belgium
+241,1974,6,1974-05-26,,monaco,Grand Prix de Monaco 1974,monaco,STREET,78,,,False,06-monaco
+242,1974,7,1974-06-09,,sweden,Texaco Sveriges Grand Prix 1974,anderstorp,RACE,80,,,False,07-sweden
+243,1974,8,1974-06-23,,netherlands,Grote Prijs van Nederland 1974,zandvoort,RACE,75,,,False,08-netherlands
+244,1974,9,1974-07-07,,france,Grand Prix de France 1974,dijon,RACE,80,,,False,09-france
+245,1974,10,1974-07-20,,great-britain,1974 John Player British Grand Prix,brands-hatch,RACE,75,,,False,10-great-britain
+246,1974,11,1974-08-04,,germany,Grosser Preis von Deutschland 1974,nurburgring,ROAD,14,,,False,11-germany
+247,1974,12,1974-08-18,,austria,Grosser Preis von Österreich 1974,spielberg,RACE,54,,,False,12-austria
+248,1974,13,1974-09-08,,italy,Gran Premio d'Italia 1974,monza,RACE,52,,,False,13-italy
+249,1974,14,1974-09-22,,canada,Labatt's Canadian Grand Prix 1974,mosport,RACE,80,,,False,14-canada
+250,1974,15,1974-10-06,,united-states,1974 United States Grand Prix,watkins-glen,RACE,59,,,False,15-united-states
+251,1975,1,1975-01-12,,argentina,Gran Premio de Argentina 1975,buenos-aires,RACE,53,,,False,01-argentina
+252,1975,2,1975-01-26,,brazil,Grande Prêmio do Brasil 1975,interlagos,RACE,40,,,False,02-brazil
+253,1975,3,1975-03-01,,south-africa,Lucky Strike Grand Prix of South Africa 1975,kyalami,RACE,78,,,False,03-south-africa
+254,1975,4,1975-04-27,,spain,Gran Premio de España 1975,montjuic,STREET,29,,,False,04-spain
+255,1975,5,1975-05-11,,monaco,Grand Prix de Monaco 1975,monaco,STREET,75,,,False,05-monaco
+256,1975,6,1975-05-25,,belgium,1975 Belgian Grand Prix,zolder,RACE,70,,,False,06-belgium
+257,1975,7,1975-06-08,,sweden,Polar Sveriges Grand Prix 1975,anderstorp,RACE,80,,,False,07-sweden
+258,1975,8,1975-06-22,,netherlands,Grote Prijs van Nederland 1975,zandvoort,RACE,75,,,False,08-netherlands
+259,1975,9,1975-07-06,,france,Grand Prix de France 1975,paul-ricard,RACE,54,,,False,09-france
+260,1975,10,1975-07-19,,great-britain,1975 John Player British Grand Prix,silverstone,RACE,56,,,False,10-great-britain
+261,1975,11,1975-08-03,,germany,Grosser Preis von Deutschland 1975,nurburgring,ROAD,14,,,False,11-germany
+262,1975,12,1975-08-17,,austria,Grosser Preis von Österreich 1975,spielberg,RACE,29,,,False,12-austria
+263,1975,13,1975-09-07,,italy,Gran Premio d'Italia 1975,monza,RACE,52,,,False,13-italy
+264,1975,14,1975-10-05,,united-states,1975 United States Grand Prix,watkins-glen,RACE,59,,,False,14-united-states
+265,1976,1,1976-01-25,,brazil,Grande Prêmio do Brasil 1976,interlagos,RACE,40,,,False,01-brazil
+266,1976,2,1976-03-06,,south-africa,The Citizen Grand Prix of South Africa 1976,kyalami,RACE,78,,,False,02-south-africa
+267,1976,3,1976-03-28,,united-states-west,1976 Long Beach Grand Prix,long-beach,STREET,80,,,False,03-united-states-west
+268,1976,4,1976-05-02,,spain,Gran Premio de España 1976,jarama,RACE,75,,,False,04-spain
+269,1976,5,1976-05-16,,belgium,1976 Belgian Grand Prix,zolder,RACE,70,,,False,05-belgium
+270,1976,6,1976-05-30,,monaco,Grand Prix de Monaco 1976,monaco,STREET,78,,,False,06-monaco
+271,1976,7,1976-06-13,,sweden,Gislaved Sveriges Grand Prix 1976,anderstorp,RACE,72,,,False,07-sweden
+272,1976,8,1976-07-04,,france,Grand Prix de France 1976,paul-ricard,RACE,54,,,False,08-france
+273,1976,9,1976-07-18,,great-britain,1976 John Player British Grand Prix,brands-hatch,RACE,76,,,False,09-great-britain
+274,1976,10,1976-08-01,,germany,Grosser Preis von Deutschland 1976,nurburgring,ROAD,14,,,False,10-germany
+275,1976,11,1976-08-15,,austria,Grosser Preis von Österreich 1976,spielberg,RACE,54,,,False,11-austria
+276,1976,12,1976-08-29,,netherlands,Grote Prijs van Nederland 1976,zandvoort,RACE,75,,,False,12-netherlands
+277,1976,13,1976-09-12,,italy,Gran Premio d'Italia 1976,monza,RACE,52,,,False,13-italy
+278,1976,14,1976-10-03,,canada,Labatt's Canadian Grand Prix 1976,mosport,RACE,80,,,False,14-canada
+279,1976,15,1976-10-10,,united-states,1976 United States Grand Prix,watkins-glen,RACE,59,,,False,15-united-states
+280,1976,16,1976-10-24,,japan,1976 Japanese Grand Prix,fuji,RACE,73,,,False,16-japan
+281,1977,1,1977-01-09,,argentina,Gran Premio de Argentina 1977,buenos-aires,RACE,53,,,False,01-argentina
+282,1977,2,1977-01-23,,brazil,Grande Prêmio do Brasil 1977,interlagos,RACE,40,,,False,02-brazil
+283,1977,3,1977-03-05,,south-africa,The Citizen Grand Prix of South Africa 1977,kyalami,RACE,78,,,False,03-south-africa
+284,1977,4,1977-04-03,,united-states-west,1977 Long Beach Grand Prix,long-beach,STREET,80,,,False,04-united-states-west
+285,1977,5,1977-05-08,,spain,Gran Premio de España 1977,jarama,RACE,75,,,False,05-spain
+286,1977,6,1977-05-22,,monaco,Grand Prix de Monaco 1977,monaco,STREET,76,,,False,06-monaco
+287,1977,7,1977-06-05,,belgium,1977 Belgian Grand Prix,zolder,RACE,70,,,False,07-belgium
+288,1977,8,1977-06-19,,sweden,Gislaved Sveriges Grand Prix 1977,anderstorp,RACE,72,,,False,08-sweden
+289,1977,9,1977-07-03,,france,Grand Prix de France 1977,dijon,RACE,80,,,False,09-france
+290,1977,10,1977-07-16,,great-britain,1977 John Player British Grand Prix,silverstone,RACE,68,,,False,10-great-britain
+291,1977,11,1977-07-31,,germany,Grosser Preis von Deutschland 1977,hockenheimring,RACE,47,,,False,11-germany
+292,1977,12,1977-08-14,,austria,Grosser Preis von Österreich 1977,spielberg,RACE,54,,,False,12-austria
+293,1977,13,1977-08-28,,netherlands,Grote Prijs van Nederland 1977,zandvoort,RACE,75,,,False,13-netherlands
+294,1977,14,1977-09-11,,italy,Gran Premio d'Italia 1977,monza,RACE,52,,,False,14-italy
+295,1977,15,1977-10-02,,united-states,1977 Toyota United States Grand Prix,watkins-glen,RACE,59,,,False,15-united-states
+296,1977,16,1977-10-09,,canada,Labatt's Canadian Grand Prix 1977,mosport,RACE,80,,,False,16-canada
+297,1977,17,1977-10-23,,japan,1977 Japanese Grand Prix,fuji,RACE,73,,,False,17-japan
+298,1978,1,1978-01-15,,argentina,Gran Premio de Argentina 1978,buenos-aires,RACE,52,,,False,01-argentina
+299,1978,2,1978-01-29,,brazil,Grande Prêmio do Brasil 1978,jacarepagua,RACE,63,,,False,02-brazil
+300,1978,3,1978-03-04,,south-africa,The Citizen and Asseng Grand Prix of South Africa 1978,kyalami,RACE,78,,,False,03-south-africa
+301,1978,4,1978-04-02,,united-states-west,1978 Long Beach Grand Prix,long-beach,STREET,80,,,False,04-united-states-west
+302,1978,5,1978-05-07,,monaco,Grand Prix de Monaco 1978,monaco,STREET,75,,,False,05-monaco
+303,1978,6,1978-05-21,,belgium,1978 Belgian Grand Prix,zolder,RACE,70,,,False,06-belgium
+304,1978,7,1978-06-04,,spain,Gran Premio de España 1978,jarama,RACE,75,,,False,07-spain
+305,1978,8,1978-06-17,,sweden,Sveriges Grand Prix 1978,anderstorp,RACE,70,,,False,08-sweden
+306,1978,9,1978-07-02,,france,Grand Prix de France 1978,paul-ricard,RACE,54,,,False,09-france
+307,1978,10,1978-07-16,,great-britain,1978 John Player British Grand Prix,brands-hatch,RACE,76,,,False,10-great-britain
+308,1978,11,1978-07-30,,germany,Grosser Preis von Deutschland 1978,hockenheimring,RACE,45,,,False,11-germany
+309,1978,12,1978-08-13,,austria,Grosser Preis von Österreich 1978,spielberg,RACE,54,,,False,12-austria
+310,1978,13,1978-08-27,,netherlands,Grote Prijs van Nederland 1978,zandvoort,RACE,75,,,False,13-netherlands
+311,1978,14,1978-09-10,,italy,Gran Premio d'Italia 1978,monza,RACE,40,,,False,14-italy
+312,1978,15,1978-10-01,,united-states,1978 Toyota United States Grand Prix,watkins-glen,RACE,59,,,False,15-united-states
+313,1978,16,1978-10-08,,canada,Grand Prix du Canada 1978,montreal,STREET,70,,,False,16-canada
+314,1979,1,1979-01-21,,argentina,Gran Premio de Argentina 1979,buenos-aires,RACE,53,,,False,01-argentina
+315,1979,2,1979-02-04,,brazil,Grande Prêmio do Brasil 1979,interlagos,RACE,40,,,False,02-brazil
+316,1979,3,1979-03-03,,south-africa,Simba Grand Prix of South Africa 1979,kyalami,RACE,78,,,False,03-south-africa
+317,1979,4,1979-04-08,,united-states-west,1979 Lubri Lon Long Beach Grand Prix,long-beach,STREET,80,,,False,04-united-states-west
+318,1979,5,1979-04-29,,spain,Gran Premio de España 1979,jarama,RACE,75,,,False,05-spain
+319,1979,6,1979-05-13,,belgium,1979 Belgian Grand Prix,zolder,RACE,70,,,False,06-belgium
+320,1979,7,1979-05-27,,monaco,Grand Prix de Monaco 1979,monaco,STREET,76,,,False,07-monaco
+321,1979,8,1979-07-01,,france,Grand Prix de France 1979,dijon,RACE,80,,,False,08-france
+322,1979,9,1979-07-14,,great-britain,1979 Marlboro British Grand Prix,silverstone,RACE,68,,,False,09-great-britain
+323,1979,10,1979-07-29,,germany,Grosser Preis von Deutschland 1979,hockenheimring,RACE,45,,,False,10-germany
+324,1979,11,1979-08-12,,austria,Grosser Preis von Österreich 1979,spielberg,RACE,54,,,False,11-austria
+325,1979,12,1979-08-26,,netherlands,Grote Prijs van Nederland 1979,zandvoort,RACE,75,,,False,12-netherlands
+326,1979,13,1979-09-09,,italy,Gran Premio d'Italia 1979,monza,RACE,50,,,False,13-italy
+327,1979,14,1979-09-30,,canada,Grand Prix du Canada 1979,montreal,STREET,72,,,False,14-canada
+328,1979,15,1979-10-07,,united-states,1979 Toyota United States Grand Prix,watkins-glen,RACE,59,,,False,15-united-states
+329,1980,1,1980-01-13,,argentina,Gran Premio de Argentina 1980,buenos-aires,RACE,53,,,False,01-argentina
+330,1980,2,1980-01-27,,brazil,Grande Prêmio do Brasil 1980,interlagos,RACE,40,,,False,02-brazil
+331,1980,3,1980-03-01,,south-africa,South African Grand Prix 1980,kyalami,RACE,78,,,False,03-south-africa
+332,1980,4,1980-03-30,,united-states-west,1980 Toyota Grand Prix of Long Beach,long-beach,STREET,80,,,False,04-united-states-west
+333,1980,5,1980-05-04,,belgium,1980 Belgian Grand Prix,zolder,RACE,72,,,False,05-belgium
+334,1980,6,1980-05-18,,monaco,Grand Prix de Monaco 1980,monaco,STREET,76,,,False,06-monaco
+335,1980,7,1980-06-29,,france,Grand Prix de France 1980,paul-ricard,RACE,54,,,False,07-france
+336,1980,8,1980-07-13,,great-britain,1980 Marlboro British Grand Prix,brands-hatch,RACE,76,,,False,08-great-britain
+337,1980,9,1980-08-10,,germany,Grosser Preis von Deutschland 1980,hockenheimring,RACE,45,,,False,09-germany
+338,1980,10,1980-08-17,,austria,Grosser Preis von Österreich 1980,spielberg,RACE,54,,,False,10-austria
+339,1980,11,1980-08-31,,netherlands,Grote Prijs van Nederland 1980,zandvoort,RACE,72,,,False,11-netherlands
+340,1980,12,1980-09-14,,italy,Gran Premio d'Italia 1980,imola,RACE,60,,,False,12-italy
+341,1980,13,1980-09-28,,canada,Grand Prix Labatt du Canada 1980,montreal,STREET,70,,,False,13-canada
+342,1980,14,1980-10-05,,united-states,1980 Toyota United States Grand Prix,watkins-glen,RACE,59,,,False,14-united-states
+343,1981,1,1981-03-15,,united-states-west,1981 Toyota Grand Prix of Long Beach,long-beach,STREET,80,,,False,01-united-states-west
+344,1981,2,1981-03-29,,brazil,Grande Prêmio do Brasil 1981,jacarepagua,RACE,62,,,False,02-brazil
+345,1981,3,1981-04-12,,argentina,Gran Premio de Argentina 1981,buenos-aires,RACE,53,,,False,03-argentina
+346,1981,4,1981-05-03,,san-marino,Gran Premio di San Marino 1981,imola,RACE,60,,,False,04-san-marino
+347,1981,5,1981-05-17,,belgium,1981 Belgian Grand Prix,zolder,RACE,54,,,False,05-belgium
+348,1981,6,1981-05-31,,monaco,Grand Prix de Monaco 1981,monaco,STREET,76,,,False,06-monaco
+349,1981,7,1981-06-21,,spain,Gran Premio de España 1981,jarama,RACE,80,,,False,07-spain
+350,1981,8,1981-07-05,,france,Grand Prix de France 1981,dijon,RACE,80,,,False,08-france
+351,1981,9,1981-07-18,,great-britain,1981 Marlboro British Grand Prix,silverstone,RACE,68,,,False,09-great-britain
+352,1981,10,1981-08-02,,germany,Grosser Preis von Deutschland 1981,hockenheimring,RACE,45,,,False,10-germany
+353,1981,11,1981-08-16,,austria,Grosser Preis von Österreich 1981,spielberg,RACE,53,,,False,11-austria
+354,1981,12,1981-08-30,,netherlands,Grote Prijs van Nederland 1981,zandvoort,RACE,72,,,False,12-netherlands
+355,1981,13,1981-09-13,,italy,Gran Premio d'Italia 1981,monza,RACE,52,,,False,13-italy
+356,1981,14,1981-09-27,,canada,Grand Prix Labatt du Canada 1981,montreal,STREET,63,,,False,14-canada
+357,1981,15,1981-10-17,,caesars-palace,1981 Caesars Palace Grand Prix,caesars-palace,STREET,75,,,False,15-caesars-palace
+358,1982,1,1982-01-23,,south-africa,South African Grand Prix 1982,kyalami,RACE,77,,,False,01-south-africa
+359,1982,2,1982-03-21,,brazil,Grande Prêmio do Brasil 1982,jacarepagua,RACE,63,,,False,02-brazil
+360,1982,3,1982-04-04,,united-states-west,1982 Toyota Grand Prix of Long Beach,long-beach,STREET,75,,,False,03-united-states-west
+361,1982,4,1982-04-25,,san-marino,Gran Premio di San Marino 1982,imola,RACE,60,,,False,04-san-marino
+362,1982,5,1982-05-09,,belgium,1982 Belgian Grand Prix,zolder,RACE,70,,,False,05-belgium
+363,1982,6,1982-05-23,,monaco,Grand Prix de Monaco 1982,monaco,STREET,76,,,False,06-monaco
+364,1982,7,1982-06-06,,detroit,1982 Detroit Grand Prix,detroit,STREET,62,,,False,07-detroit
+365,1982,8,1982-06-13,,canada,Grand Prix Labatt du Canada 1982,montreal,STREET,70,,,False,08-canada
+366,1982,9,1982-07-03,,netherlands,Grote Prijs van Nederland 1982,zandvoort,RACE,72,,,False,09-netherlands
+367,1982,10,1982-07-18,,great-britain,1982 Marlboro British Grand Prix,brands-hatch,RACE,76,,,False,10-great-britain
+368,1982,11,1982-07-25,,france,Grand Prix de France 1982,paul-ricard,RACE,54,,,False,11-france
+369,1982,12,1982-08-08,,germany,Grosser Preis von Deutschland 1982,hockenheimring,RACE,45,,,False,12-germany
+370,1982,13,1982-08-15,,austria,Grosser Preis von Österreich 1982,spielberg,RACE,53,,,False,13-austria
+371,1982,14,1982-08-29,,switzerland,Grosser Preis der Schweiz 1982,dijon,RACE,80,,,False,14-switzerland
+372,1982,15,1982-09-12,,italy,Gran Premio d'Italia 1982,monza,RACE,52,,,False,15-italy
+373,1982,16,1982-09-25,,caesars-palace,1982 Caesars Palace Grand Prix,caesars-palace,STREET,75,,,False,16-caesars-palace
+374,1983,1,1983-03-13,,brazil,Grande Prêmio do Brasil 1983,jacarepagua,RACE,63,,,False,01-brazil
+375,1983,2,1983-03-27,,united-states-west,1983 Toyota Grand Prix of Long Beach,long-beach,STREET,75,,,False,02-united-states-west
+376,1983,3,1983-04-17,,france,Grand Prix de France 1983,paul-ricard,RACE,54,,,False,03-france
+377,1983,4,1983-05-01,,san-marino,Gran Premio di San Marino 1983,imola,RACE,60,,,False,04-san-marino
+378,1983,5,1983-05-15,,monaco,Grand Prix de Monaco 1983,monaco,STREET,76,,,False,05-monaco
+379,1983,6,1983-05-22,,belgium,1983 Belgian Grand Prix,spa-francorchamps,RACE,40,,,False,06-belgium
+380,1983,7,1983-06-05,,detroit,1983 Detroit Grand Prix,detroit,STREET,60,,,False,07-detroit
+381,1983,8,1983-06-12,,canada,Grand Prix Labatt du Canada 1983,montreal,STREET,70,,,False,08-canada
+382,1983,9,1983-07-16,,great-britain,1983 Marlboro British Grand Prix,silverstone,RACE,67,,,False,09-great-britain
+383,1983,10,1983-08-07,,germany,Grosser Preis von Deutschland 1983,hockenheimring,RACE,45,,,False,10-germany
+384,1983,11,1983-08-14,,austria,Grosser Preis von Österreich 1983,spielberg,RACE,53,,,False,11-austria
+385,1983,12,1983-08-28,,netherlands,Grote Prijs van Nederland 1983,zandvoort,RACE,72,,,False,12-netherlands
+386,1983,13,1983-09-11,,italy,Gran Premio d'Italia 1983,monza,RACE,52,,,False,13-italy
+387,1983,14,1983-09-25,,europe,1983 John Player Grand Prix of Europe,brands-hatch,RACE,76,,,False,14-europe
+388,1983,15,1983-10-15,,south-africa,Southern Sun Hotels South African Grand Prix 1983,kyalami,RACE,77,,,False,15-south-africa
+389,1984,1,1984-03-25,,brazil,Grande Prêmio do Brasil 1984,jacarepagua,RACE,61,,,False,01-brazil
+390,1984,2,1984-04-07,,south-africa,National Panasonic South African Grand Prix 1984,kyalami,RACE,75,,,False,02-south-africa
+391,1984,3,1984-04-29,,belgium,1984 Belgian Grand Prix,zolder,RACE,70,,,False,03-belgium
+392,1984,4,1984-05-06,,san-marino,Gran Premio di San Marino 1984,imola,RACE,60,,,False,04-san-marino
+393,1984,5,1984-05-20,,france,Grand Prix de France 1984,dijon,RACE,79,,,False,05-france
+394,1984,6,1984-06-03,,monaco,Grand Prix de Monaco 1984,monaco,STREET,31,,,False,06-monaco
+395,1984,7,1984-06-17,,canada,Grand Prix Labatt du Canada 1984,montreal,STREET,70,,,False,07-canada
+396,1984,8,1984-06-24,,detroit,1984 Detroit Grand Prix,detroit,STREET,63,,,False,08-detroit
+397,1984,9,1984-07-08,,dallas,1984 Dallas Grand Prix,dallas,STREET,67,,,False,09-dallas
+398,1984,10,1984-07-22,,great-britain,1984 John Player British Grand Prix,brands-hatch,RACE,71,,,False,10-great-britain
+399,1984,11,1984-08-05,,germany,Grosser Preis von Deutschland 1984,hockenheimring,RACE,44,,,False,11-germany
+400,1984,12,1984-08-19,,austria,Grosser Preis von Österreich 1984,spielberg,RACE,51,,,False,12-austria
+401,1984,13,1984-08-26,,netherlands,Grote Prijs van Nederland 1984,zandvoort,RACE,71,,,False,13-netherlands
+402,1984,14,1984-09-09,,italy,Gran Premio d'Italia 1984,monza,RACE,51,,,False,14-italy
+403,1984,15,1984-10-07,,europe,Grosser Preis von Europa 1984,nurburgring,RACE,67,,,False,15-europe
+404,1984,16,1984-10-21,,portugal,Grande Prémio de Portugal 1984,estoril,RACE,70,,,False,16-portugal
+405,1985,1,1985-04-07,,brazil,Grande Prêmio do Brasil 1985,jacarepagua,RACE,61,,,False,01-brazil
+406,1985,2,1985-04-21,,portugal,Grande Prémio de Portugal 1985,estoril,RACE,67,,,False,02-portugal
+407,1985,3,1985-05-05,,san-marino,Gran Premio di San Marino 1985,imola,RACE,60,,,False,03-san-marino
+408,1985,4,1985-05-19,,monaco,Grand Prix de Monaco 1985,monaco,STREET,78,,,False,04-monaco
+409,1985,5,1985-06-16,,canada,Grand Prix Labatt du Canada 1985,montreal,STREET,70,,,False,05-canada
+410,1985,6,1985-06-23,,detroit,1985 Detroit Grand Prix,detroit,STREET,63,,,False,06-detroit
+411,1985,7,1985-07-07,,france,Grand Prix de France 1985,paul-ricard,RACE,53,,,False,07-france
+412,1985,8,1985-07-21,,great-britain,1985 Marlboro British Grand Prix,silverstone,RACE,65,,,False,08-great-britain
+413,1985,9,1985-08-04,,germany,Grosser Preis von Deutschland 1985,nurburgring,RACE,67,,,False,09-germany
+414,1985,10,1985-08-18,,austria,Grosser Preis von Österreich 1985,spielberg,RACE,52,,,False,10-austria
+415,1985,11,1985-08-25,,netherlands,Grote Prijs van Nederland 1985,zandvoort,RACE,70,,,False,11-netherlands
+416,1985,12,1985-09-08,,italy,Gran Premio d'Italia 1985,monza,RACE,51,,,False,12-italy
+417,1985,13,1985-09-15,,belgium,1985 Belgian Grand Prix,spa-francorchamps,RACE,43,,,False,13-belgium
+418,1985,14,1985-10-06,,europe,1985 Shell Oils Grand Prix of Europe,brands-hatch,RACE,75,,,False,14-europe
+419,1985,15,1985-10-19,,south-africa,Southern Sun Hotels South African Grand Prix 1985,kyalami,RACE,75,,,False,15-south-africa
+420,1985,16,1985-11-03,,australia,1985 Mitsubishi Australian Grand Prix,adelaide,STREET,82,,,False,16-australia
+421,1986,1,1986-03-23,,brazil,Grande Prêmio do Brasil 1986,jacarepagua,RACE,61,,,False,01-brazil
+422,1986,2,1986-04-13,,spain,Gran Premio Tio Pepe de España 1986,jerez,RACE,72,,,False,02-spain
+423,1986,3,1986-04-27,,san-marino,Gran Premio di San Marino 1986,imola,RACE,60,,,False,03-san-marino
+424,1986,4,1986-05-11,,monaco,Grand Prix de Monaco 1986,monaco,STREET,78,,,False,04-monaco
+425,1986,5,1986-05-25,,belgium,1986 Belgian Grand Prix,spa-francorchamps,RACE,43,,,False,05-belgium
+426,1986,6,1986-06-15,,canada,Grand Prix Labatt du Canada 1986,montreal,STREET,69,,,False,06-canada
+427,1986,7,1986-06-22,,detroit,1986 Detroit Grand Prix,detroit,STREET,63,,,False,07-detroit
+428,1986,8,1986-07-06,,france,Grand Prix de France 1986,paul-ricard,RACE,80,,,False,08-france
+429,1986,9,1986-07-13,,great-britain,1986 Shell Oils British Grand Prix,brands-hatch,RACE,75,,,False,09-great-britain
+430,1986,10,1986-07-27,,germany,Grosser Preis von Deutschland 1986,hockenheimring,RACE,44,,,False,10-germany
+431,1986,11,1986-08-10,,hungary,Magyar Nagydíj 1986,hungaroring,RACE,76,,,False,11-hungary
+432,1986,12,1986-08-17,,austria,Grosser Preis von Österreich 1986,spielberg,RACE,52,,,False,12-austria
+433,1986,13,1986-09-07,,italy,Gran Premio d'Italia 1986,monza,RACE,51,,,False,13-italy
+434,1986,14,1986-09-21,,portugal,Grande Prémio de Portugal 1986,estoril,RACE,70,,,False,14-portugal
+435,1986,15,1986-10-12,,mexico,Gran Premio de México 1986,mexico-city,RACE,68,,,False,15-mexico
+436,1986,16,1986-10-26,,australia,1986 Foster's Australian Grand Prix,adelaide,STREET,82,,,False,16-australia
+437,1987,1,1987-04-12,,brazil,Grande Prêmio do Brasil 1987,jacarepagua,RACE,61,,,False,01-brazil
+438,1987,2,1987-05-03,,san-marino,Gran Premio di San Marino 1987,imola,RACE,59,,,False,02-san-marino
+439,1987,3,1987-05-17,,belgium,1987 Belgian Grand Prix,spa-francorchamps,RACE,43,,,False,03-belgium
+440,1987,4,1987-05-31,,monaco,Grand Prix de Monaco 1987,monaco,STREET,78,,,False,04-monaco
+441,1987,5,1987-06-21,,detroit,1987 Detroit Grand Prix,detroit,STREET,63,,,False,05-detroit
+442,1987,6,1987-07-05,,france,Grand Prix de France 1987,paul-ricard,RACE,80,,,False,06-france
+443,1987,7,1987-07-12,,great-britain,1987 Shell Oils British Grand Prix,silverstone,RACE,65,,,False,07-great-britain
+444,1987,8,1987-07-26,,germany,Mobil Grosser Preis von Deutschland 1987,hockenheimring,RACE,44,,,False,08-germany
+445,1987,9,1987-08-09,,hungary,Magyar Nagydíj 1987,hungaroring,RACE,76,,,False,09-hungary
+446,1987,10,1987-08-16,,austria,Grosser Preis von Österreich 1987,spielberg,RACE,52,,,False,10-austria
+447,1987,11,1987-09-06,,italy,Gran Premio d'Italia 1987,monza,RACE,50,,,False,11-italy
+448,1987,12,1987-09-20,,portugal,Grande Prémio de Portugal 1987,estoril,RACE,70,,,False,12-portugal
+449,1987,13,1987-09-27,,spain,Gran Premio Tio Pepe de España 1987,jerez,RACE,72,,,False,13-spain
+450,1987,14,1987-10-18,,mexico,Gran Premio de México 1987,mexico-city,RACE,63,,,False,14-mexico
+451,1987,15,1987-11-01,,japan,1987 Fuji Television Japanese Grand Prix,suzuka,RACE,51,,,False,15-japan
+452,1987,16,1987-11-15,,australia,1987 Foster's Australian Grand Prix,adelaide,STREET,82,,,False,16-australia
+453,1988,1,1988-04-03,,brazil,Grande Prêmio do Brasil 1988,jacarepagua,RACE,60,,,False,01-brazil
+454,1988,2,1988-05-01,,san-marino,Gran Premio Kronenbourg di San Marino 1988,imola,RACE,60,,,False,02-san-marino
+455,1988,3,1988-05-15,,monaco,Grand Prix de Monaco 1988,monaco,STREET,78,,,False,03-monaco
+456,1988,4,1988-05-29,,mexico,Gran Premio de México 1988,mexico-city,RACE,67,,,False,04-mexico
+457,1988,5,1988-06-12,,canada,Grand Prix Molson du Canada 1988,montreal,STREET,69,,,False,05-canada
+458,1988,6,1988-06-19,,detroit,1988 Enichem Detroit Grand Prix,detroit,STREET,63,,,False,06-detroit
+459,1988,7,1988-07-03,,france,Rhone Poulenc Grand Prix de France 1988,paul-ricard,RACE,80,,,False,07-france
+460,1988,8,1988-07-10,,great-britain,1988 Shell Oils British Grand Prix,silverstone,RACE,65,,,False,08-great-britain
+461,1988,9,1988-07-24,,germany,Mobil 1 Grosser Preis von Deutschland 1988,hockenheimring,RACE,44,,,False,09-germany
+462,1988,10,1988-08-07,,hungary,Pop 84 Magyar Nagydíj 1988,hungaroring,RACE,76,,,False,10-hungary
+463,1988,11,1988-08-28,,belgium,1988 Belgian Grand Prix,spa-francorchamps,RACE,43,,,False,11-belgium
+464,1988,12,1988-09-11,,italy,Coca Cola Gran Premio d'Italia 1988,monza,RACE,51,,,False,12-italy
+465,1988,13,1988-09-25,,portugal,Grande Prémio de Portugal 1988,estoril,RACE,70,,,False,13-portugal
+466,1988,14,1988-10-02,,spain,Gran Premio Tio Pepe de España 1988,jerez,RACE,72,,,False,14-spain
+467,1988,15,1988-10-30,,japan,1988 Fuji Television Japanese Grand Prix,suzuka,RACE,51,,,False,15-japan
+468,1988,16,1988-11-13,,australia,1988 Foster's Australian Grand Prix,adelaide,STREET,82,,,False,16-australia
+469,1989,1,1989-03-26,,brazil,Grande Prêmio do Brasil 1989,jacarepagua,RACE,61,,,False,01-brazil
+470,1989,2,1989-04-23,,san-marino,Gran Premio Kronenbourg di San Marino 1989,imola,RACE,58,,,False,02-san-marino
+471,1989,3,1989-05-07,,monaco,Grand Prix de Monaco 1989,monaco,STREET,77,,,False,03-monaco
+472,1989,4,1989-05-28,,mexico,Gran Premio de México 1989,mexico-city,RACE,69,,,False,04-mexico
+473,1989,5,1989-06-04,,united-states,1989 Iceberg USA Grand Prix,phoenix,STREET,75,,,False,05-united-states
+474,1989,6,1989-06-18,,canada,Grand Prix Molson du Canada 1989,montreal,STREET,69,,,False,06-canada
+475,1989,7,1989-07-09,,france,Rhone Poulenc Grand Prix de France 1989,paul-ricard,RACE,80,,,False,07-france
+476,1989,8,1989-07-16,,great-britain,1989 Shell British Grand Prix,silverstone,RACE,64,,,False,08-great-britain
+477,1989,9,1989-07-30,,germany,Grosser Mobil 1 Preis von Deutschland 1989,hockenheimring,RACE,45,,,False,09-germany
+478,1989,10,1989-08-13,,hungary,Pop 84 Magyar Nagydíj 1989,hungaroring,RACE,77,,,False,10-hungary
+479,1989,11,1989-08-27,,belgium,1989 Belgian Grand Prix,spa-francorchamps,RACE,44,,,False,11-belgium
+480,1989,12,1989-09-10,,italy,Coca Cola Gran Premio d'Italia 1989,monza,RACE,53,,,False,12-italy
+481,1989,13,1989-09-24,,portugal,Grande Prémio de Portugal 1989,estoril,RACE,71,,,False,13-portugal
+482,1989,14,1989-10-01,,spain,Gran Premio Tio Pepe de España 1989,jerez,RACE,73,,,False,14-spain
+483,1989,15,1989-10-22,,japan,1989 Fuji Television Japanese Grand Prix,suzuka,RACE,53,,,False,15-japan
+484,1989,16,1989-11-05,,australia,1989 Foster's Australian Grand Prix,adelaide,STREET,70,,,False,16-australia
+485,1990,1,1990-03-11,,united-states,1990 Iceberg USA Grand Prix,phoenix,STREET,72,,,False,01-united-states
+486,1990,2,1990-03-25,,brazil,Grande Prêmio do Brasil 1990,interlagos,RACE,71,,,False,02-brazil
+487,1990,3,1990-05-13,,san-marino,Gran Premio di San Marino 1990,imola,RACE,61,,,False,03-san-marino
+488,1990,4,1990-05-27,,monaco,Grand Prix de Monaco 1990,monaco,STREET,78,,,False,04-monaco
+489,1990,5,1990-06-10,,canada,Grand Prix Molson du Canada 1990,montreal,STREET,70,,,False,05-canada
+490,1990,6,1990-06-24,,mexico,Gran Premio de México 1990,mexico-city,RACE,69,,,False,06-mexico
+491,1990,7,1990-07-08,,france,Rhone Poulenc Grand Prix de France 1990,paul-ricard,RACE,80,,,False,07-france
+492,1990,8,1990-07-15,,great-britain,1990 Foster's British Grand Prix,silverstone,RACE,64,,,False,08-great-britain
+493,1990,9,1990-07-29,,germany,Grosser Mobil 1 Preis von Deutschland 1990,hockenheimring,RACE,45,,,False,09-germany
+494,1990,10,1990-08-12,,hungary,Magyar Nagydíj 1990,hungaroring,RACE,77,,,False,10-hungary
+495,1990,11,1990-08-26,,belgium,1990 Belgian Grand Prix,spa-francorchamps,RACE,44,,,False,11-belgium
+496,1990,12,1990-09-09,,italy,Coca Cola Gran Premio d'Italia 1990,monza,RACE,53,,,False,12-italy
+497,1990,13,1990-09-23,,portugal,Grande Prémio de Portugal 1990,estoril,RACE,61,,,False,13-portugal
+498,1990,14,1990-09-30,,spain,Gran Premio Tio Pepe de España 1990,jerez,RACE,73,,,False,14-spain
+499,1990,15,1990-10-21,,japan,1990 Fuji Television Japanese Grand Prix,suzuka,RACE,53,,,False,15-japan
+500,1990,16,1990-11-04,,australia,1990 Foster's Australian Grand Prix,adelaide,STREET,81,,,False,16-australia
+501,1991,1,1991-03-10,,united-states,1991 Iceberg USA Grand Prix,phoenix,STREET,81,,,False,01-united-states
+502,1991,2,1991-03-24,,brazil,Grande Prêmio do Brasil 1991,interlagos,RACE,71,,,False,02-brazil
+503,1991,3,1991-04-28,,san-marino,Gran Premio di San Marino 1991,imola,RACE,61,,,False,03-san-marino
+504,1991,4,1991-05-12,,monaco,Grand Prix de Monaco 1991,monaco,STREET,78,,,False,04-monaco
+505,1991,5,1991-06-02,,canada,Grand Prix Molson du Canada 1991,montreal,STREET,69,,,False,05-canada
+506,1991,6,1991-06-16,,mexico,Gran Premio de México 1991,mexico-city,RACE,67,,,False,06-mexico
+507,1991,7,1991-07-07,,france,Rhone Poulenc Grand Prix de France 1991,magny-cours,RACE,72,,,False,07-france
+508,1991,8,1991-07-14,,great-britain,1991 Foster's British Grand Prix,silverstone,RACE,59,,,False,08-great-britain
+509,1991,9,1991-07-28,,germany,Grosser Mobil 1 Preis von Deutschland 1991,hockenheimring,RACE,45,,,False,09-germany
+510,1991,10,1991-08-11,,hungary,Magyar Nagydíj 1991,hungaroring,RACE,77,,,False,10-hungary
+511,1991,11,1991-08-25,,belgium,1991 Belgian Grand Prix,spa-francorchamps,RACE,44,,,False,11-belgium
+512,1991,12,1991-09-08,,italy,Coca Cola Gran Premio d'Italia 1991,monza,RACE,53,,,False,12-italy
+513,1991,13,1991-09-22,,portugal,Grande Prémio de Portugal 1991,estoril,RACE,71,,,False,13-portugal
+514,1991,14,1991-09-29,,spain,Gran Premio Tio Pepe de España 1991,catalunya,RACE,65,,,False,14-spain
+515,1991,15,1991-10-20,,japan,1991 Fuji Television Japanese Grand Prix,suzuka,RACE,53,,,False,15-japan
+516,1991,16,1991-11-03,,australia,1991 Foster's Australian Grand Prix,adelaide,STREET,14,,,False,16-australia
+517,1992,1,1992-03-01,,south-africa,Yellow Pages South African Grand Prix 1992,kyalami,RACE,72,,,False,01-south-africa
+518,1992,2,1992-03-22,,mexico,Gran Premio de México 1992,mexico-city,RACE,69,,,False,02-mexico
+519,1992,3,1992-04-05,,brazil,Grande Prêmio do Brasil 1992,interlagos,RACE,71,,,False,03-brazil
+520,1992,4,1992-05-03,,spain,Gran Premio Tio Pepe de España 1992,catalunya,RACE,65,,,False,04-spain
+521,1992,5,1992-05-17,,san-marino,Gran Premio Iceberg di San Marino 1992,imola,RACE,60,,,False,05-san-marino
+522,1992,6,1992-05-31,,monaco,Grand Prix de Monaco 1992,monaco,STREET,78,,,False,06-monaco
+523,1992,7,1992-06-14,,canada,Grand Prix Molson du Canada 1992,montreal,STREET,69,,,False,07-canada
+524,1992,8,1992-07-05,,france,Rhone Poulenc Grand Prix de France 1992,magny-cours,RACE,69,,,False,08-france
+525,1992,9,1992-07-12,,great-britain,1992 Foster's British Grand Prix,silverstone,RACE,59,,,False,09-great-britain
+526,1992,10,1992-07-26,,germany,Grosser Mobil 1 Preis von Deutschland 1992,hockenheimring,RACE,45,,,False,10-germany
+527,1992,11,1992-08-16,,hungary,Marlboro Magyar Nagydíj 1992,hungaroring,RACE,77,,,False,11-hungary
+528,1992,12,1992-08-30,,belgium,1992 Belgian Grand Prix,spa-francorchamps,RACE,44,,,False,12-belgium
+529,1992,13,1992-09-13,,italy,Pioneer Gran Premio d'Italia 1992,monza,RACE,53,,,False,13-italy
+530,1992,14,1992-09-27,,portugal,Grande Prémio SG Gigante de Portugal 1992,estoril,RACE,71,,,False,14-portugal
+531,1992,15,1992-10-25,,japan,1992 Fuji Television Japanese Grand Prix,suzuka,RACE,53,,,False,15-japan
+532,1992,16,1992-11-08,,australia,1992 Foster's Australian Grand Prix,adelaide,STREET,81,,,False,16-australia
+533,1993,1,1993-03-14,,south-africa,Panasonic South African Grand Prix 1993,kyalami,RACE,72,,,False,01-south-africa
+534,1993,2,1993-03-28,,brazil,Grande Prêmio do Brasil 1993,interlagos,RACE,71,,,False,02-brazil
+535,1993,3,1993-04-11,,europe,1993 SEGA European Grand Prix,donington,RACE,76,,,False,03-europe
+536,1993,4,1993-04-25,,san-marino,Gran Premio di San Marino 1993,imola,RACE,61,,,False,04-san-marino
+537,1993,5,1993-05-09,,spain,Gran Premio de España 1993,catalunya,RACE,65,,,False,05-spain
+538,1993,6,1993-05-23,,monaco,Grand Prix de Monaco 1993,monaco,STREET,78,,,False,06-monaco
+539,1993,7,1993-06-13,,canada,Grand Prix Molson du Canada 1993,montreal,STREET,69,,,False,07-canada
+540,1993,8,1993-07-04,,france,Rhone Poulenc Grand Prix de France 1993,magny-cours,RACE,72,,,False,08-france
+541,1993,9,1993-07-11,,great-britain,1993 Foster's British Grand Prix,silverstone,RACE,59,,,False,09-great-britain
+542,1993,10,1993-07-25,,germany,Grosser Mobil 1 Preis von Deutschland 1993,hockenheimring,RACE,45,,,False,10-germany
+543,1993,11,1993-08-15,,hungary,Marlboro Magyar Nagydíj 1993,hungaroring,RACE,77,,,False,11-hungary
+544,1993,12,1993-08-29,,belgium,1993 Belgian Grand Prix,spa-francorchamps,RACE,44,,,False,12-belgium
+545,1993,13,1993-09-12,,italy,Pioneer Gran Premio d'Italia 1993,monza,RACE,53,,,False,13-italy
+546,1993,14,1993-09-26,,portugal,Grande Prémio de Portugal 1993,estoril,RACE,71,,,False,14-portugal
+547,1993,15,1993-10-24,,japan,1993 Fuji Television Japanese Grand Prix,suzuka,RACE,53,,,False,15-japan
+548,1993,16,1993-11-07,,australia,1993 Foster's Australian Grand Prix,adelaide,STREET,79,,,False,16-australia
+549,1994,1,1994-03-27,,brazil,Grande Prêmio do Brasil 1994,interlagos,RACE,71,,,False,01-brazil
+550,1994,2,1994-04-17,,pacific,1994 Pacific Grand Prix,aida,RACE,83,,,False,02-pacific
+551,1994,3,1994-05-01,,san-marino,Gran Premio di San Marino 1994,imola,RACE,58,,,False,03-san-marino
+552,1994,4,1994-05-15,,monaco,Grand Prix de Monaco 1994,monaco,STREET,78,,,False,04-monaco
+553,1994,5,1994-05-29,,spain,Gran Premio Marlboro de España 1994,catalunya,RACE,65,,,False,05-spain
+554,1994,6,1994-06-12,,canada,Grand Prix Molson du Canada 1994,montreal,STREET,69,,,False,06-canada
+555,1994,7,1994-07-03,,france,Grand Prix de France 1994,magny-cours,RACE,72,,,False,07-france
+556,1994,8,1994-07-10,,great-britain,1994 RAC British Grand Prix,silverstone,RACE,60,,,False,08-great-britain
+557,1994,9,1994-07-31,,germany,Grosser Mobil 1 Preis von Deutschland 1994,hockenheimring,RACE,45,,,False,09-germany
+558,1994,10,1994-08-14,,hungary,Marlboro Magyar Nagydíj 1994,hungaroring,RACE,77,,,False,10-hungary
+559,1994,11,1994-08-28,,belgium,1994 Belgian Grand Prix,spa-francorchamps,RACE,44,,,False,11-belgium
+560,1994,12,1994-09-11,,italy,Pioneer Gran Premio d'Italia 1994,monza,RACE,53,,,False,12-italy
+561,1994,13,1994-09-25,,portugal,Grande Prémio de Portugal 1994,estoril,RACE,71,,,False,13-portugal
+562,1994,14,1994-10-16,,europe,1994 Grand Prix of Europe,jerez,RACE,69,,,False,14-europe
+563,1994,15,1994-11-06,,japan,1994 Fuji Television Japanese Grand Prix,suzuka,RACE,50,,,False,15-japan
+564,1994,16,1994-11-13,,australia,1994 Adelaide Australian Grand Prix,adelaide,STREET,81,,,False,16-australia
+565,1995,1,1995-03-26,,brazil,Grande Prêmio do Brasil 1995,interlagos,RACE,71,,,False,01-brazil
+566,1995,2,1995-04-09,,argentina,Gran Premio Marlboro de Argentina 1995,buenos-aires,RACE,72,,,False,02-argentina
+567,1995,3,1995-04-30,,san-marino,Gran Premio di San Marino 1995,imola,RACE,63,,,False,03-san-marino
+568,1995,4,1995-05-14,,spain,Gran Premio Marlboro de España 1995,catalunya,RACE,65,,,False,04-spain
+569,1995,5,1995-05-28,,monaco,Grand Prix de Monaco 1995,monaco,STREET,78,,,False,05-monaco
+570,1995,6,1995-06-11,,canada,Grand Prix Molson du Canada 1995,montreal,STREET,68,,,False,06-canada
+571,1995,7,1995-07-02,,france,Grand Prix de France 1995,magny-cours,RACE,72,,,False,07-france
+572,1995,8,1995-07-16,,great-britain,1995 RAC British Grand Prix,silverstone,RACE,61,,,False,08-great-britain
+573,1995,9,1995-07-30,,germany,Grosser Mobil 1 Preis von Deutschland 1995,hockenheimring,RACE,45,,,False,09-germany
+574,1995,10,1995-08-13,,hungary,Marlboro Magyar Nagydíj 1995,hungaroring,RACE,77,,,False,10-hungary
+575,1995,11,1995-08-27,,belgium,1995 Belgian Grand Prix,spa-francorchamps,RACE,44,,,False,11-belgium
+576,1995,12,1995-09-10,,italy,Pioneer Gran Premio d'ltalia 1995,monza,RACE,53,,,False,12-italy
+577,1995,13,1995-09-24,,portugal,Grande Prémio de Portugal 1995,estoril,RACE,71,,,False,13-portugal
+578,1995,14,1995-10-01,,europe,1995 Grand Prix of Europe,nurburgring,RACE,67,,,False,14-europe
+579,1995,15,1995-10-22,,pacific,1995 Pacific Grand Prix,aida,RACE,83,,,False,15-pacific
+580,1995,16,1995-10-29,,japan,1995 Fuji Television Japanese Grand Prix,suzuka,RACE,53,,,False,16-japan
+581,1995,17,1995-11-12,,australia,1995 EDS Australian Grand Prix,adelaide,STREET,81,,,False,17-australia
+582,1996,1,1996-03-10,,australia,1996 Transurban Australian Grand Prix,melbourne,STREET,58,,,False,01-australia
+583,1996,2,1996-03-31,,brazil,Grande Prêmio do Brasil 1996,interlagos,RACE,71,,,False,02-brazil
+584,1996,3,1996-04-07,,argentina,Gran Premio Marlboro de Argentina 1996,buenos-aires,RACE,72,,,False,03-argentina
+585,1996,4,1996-04-28,,europe,1996 Grand Prix of Europe,nurburgring,RACE,67,,,False,04-europe
+586,1996,5,1996-05-05,,san-marino,Gran Premio di San Marino 1996,imola,RACE,63,,,False,05-san-marino
+587,1996,6,1996-05-19,,monaco,Grand Prix de Monaco 1996,monaco,STREET,75,,,False,06-monaco
+588,1996,7,1996-06-02,,spain,Gran Premio Marlboro de España 1996,catalunya,RACE,65,,,False,07-spain
+589,1996,8,1996-06-16,,canada,Grand Prix Molson du Canada 1996,montreal,STREET,69,,,False,08-canada
+590,1996,9,1996-06-30,,france,Grand Prix de France 1996,magny-cours,RACE,72,,,False,09-france
+591,1996,10,1996-07-14,,great-britain,1996 RAC British Grand Prix,silverstone,RACE,61,,,False,10-great-britain
+592,1996,11,1996-07-28,,germany,Grosser Mobil 1 Preis von Deutschland 1996,hockenheimring,RACE,45,,,False,11-germany
+593,1996,12,1996-08-11,,hungary,Marlboro Magyar Nagydíj 1996,hungaroring,RACE,77,,,False,12-hungary
+594,1996,13,1996-08-25,,belgium,1996 Belgian Grand Prix,spa-francorchamps,RACE,44,,,False,13-belgium
+595,1996,14,1996-09-08,,italy,Pioneer Gran Premio d'Italia 1996,monza,RACE,53,,,False,14-italy
+596,1996,15,1996-09-22,,portugal,Grande Prémio de Portugal 1996,estoril,RACE,70,,,False,15-portugal
+597,1996,16,1996-10-13,,japan,1996 Fuji Television Japanese Grand Prix,suzuka,RACE,52,,,False,16-japan
+598,1997,1,1997-03-09,,australia,1997 Qantas Australian Grand Prix,melbourne,STREET,58,,,False,01-australia
+599,1997,2,1997-03-30,,brazil,Grande Prêmio do Brasil 1997,interlagos,RACE,72,,,False,02-brazil
+600,1997,3,1997-04-13,,argentina,Gran Premio Marlboro de Argentina 1997,buenos-aires,RACE,72,,,False,03-argentina
+601,1997,4,1997-04-27,,san-marino,Gran Premio di San Marino 1997,imola,RACE,62,,,False,04-san-marino
+602,1997,5,1997-05-11,,monaco,Grand Prix de Monaco 1997,monaco,STREET,62,,,False,05-monaco
+603,1997,6,1997-05-25,,spain,Gran Premio Marlboro de España 1997,catalunya,RACE,64,,,False,06-spain
+604,1997,7,1997-06-15,,canada,Grand Prix Player's du Canada 1997,montreal,STREET,54,,,False,07-canada
+605,1997,8,1997-06-29,,france,Grand Prix de France 1997,magny-cours,RACE,72,,,False,08-france
+606,1997,9,1997-07-13,,great-britain,1997 RAC British Grand Prix,silverstone,RACE,59,,,False,09-great-britain
+607,1997,10,1997-07-27,,germany,Grosser Mobil 1 Preis von Deutschland 1997,hockenheimring,RACE,45,,,False,10-germany
+608,1997,11,1997-08-10,,hungary,Marlboro Magyar Nagydíj 1997,hungaroring,RACE,77,,,False,11-hungary
+609,1997,12,1997-08-24,,belgium,1997 Belgian Grand Prix,spa-francorchamps,RACE,44,,,False,12-belgium
+610,1997,13,1997-09-07,,italy,Gran Premio Campari d'ltalia 1997,monza,RACE,53,,,False,13-italy
+611,1997,14,1997-09-21,,austria,Grosser Preis von Österreich 1997,spielberg,RACE,71,,,False,14-austria
+612,1997,15,1997-09-28,,luxembourg,Grosser Preis von Luxemburg 1997,nurburgring,RACE,67,,,False,15-luxembourg
+613,1997,16,1997-10-12,,japan,1997 Fuji Television Japanese Grand Prix,suzuka,RACE,53,,,False,16-japan
+614,1997,17,1997-10-26,,europe,1997 Grand Prix of Europe,jerez,RACE,69,,,False,17-europe
+615,1998,1,1998-03-08,,australia,1998 Qantas Australian Grand Prix,melbourne,STREET,58,,,False,01-australia
+616,1998,2,1998-03-29,,brazil,Grande Prêmio Marlboro do Brasil 1998,interlagos,RACE,72,,,False,02-brazil
+617,1998,3,1998-04-12,,argentina,Gran Premio Marlboro de Argentina 1998,buenos-aires,RACE,72,,,False,03-argentina
+618,1998,4,1998-04-26,,san-marino,Gran Premio di San Marino 1998,imola,RACE,62,,,False,04-san-marino
+619,1998,5,1998-05-10,,spain,Gran Premio Marlboro de España 1998,catalunya,RACE,65,,,False,05-spain
+620,1998,6,1998-05-24,,monaco,Grand Prix de Monaco 1998,monaco,STREET,78,,,False,06-monaco
+621,1998,7,1998-06-07,,canada,Grand Prix Player's du Canada 1998,montreal,STREET,69,,,False,07-canada
+622,1998,8,1998-06-28,,france,Grand Prix Mobil 1 de France 1998,magny-cours,RACE,71,,,False,08-france
+623,1998,9,1998-07-12,,great-britain,1998 RAC British Grand Prix,silverstone,RACE,60,,,False,09-great-britain
+624,1998,10,1998-07-26,,austria,Grosser Preis von Österreich 1998,spielberg,RACE,71,,,False,10-austria
+625,1998,11,1998-08-02,,germany,Grosser Mobil 1 Preis von Deutschland 1998,hockenheimring,RACE,45,,,False,11-germany
+626,1998,12,1998-08-16,,hungary,Marlboro Magyar Nagydíj 1998,hungaroring,RACE,77,,,False,12-hungary
+627,1998,13,1998-08-30,,belgium,1998 Foster's Belgian Grand Prix,spa-francorchamps,RACE,44,,,False,13-belgium
+628,1998,14,1998-09-13,,italy,Gran Premio Campari d'Italia 1998,monza,RACE,53,,,False,14-italy
+629,1998,15,1998-09-27,,luxembourg,Grosser Warsteiner Preis von Luxemburg 1998,nurburgring,RACE,67,,,False,15-luxembourg
+630,1998,16,1998-11-01,,japan,1998 Fuji Television Japanese Grand Prix,suzuka,RACE,51,,,False,16-japan
+631,1999,1,1999-03-07,,australia,1999 Qantas Australian Grand Prix,melbourne,STREET,57,,,False,01-australia
+632,1999,2,1999-04-11,,brazil,Grande Prêmio Marlboro do Brasil 1999,interlagos,RACE,72,,,False,02-brazil
+633,1999,3,1999-05-02,,san-marino,Gran Premio Warsteiner di San Marino 1999,imola,RACE,62,,,False,03-san-marino
+634,1999,4,1999-05-16,,monaco,Grand Prix de Monaco 1999,monaco,STREET,78,,,False,04-monaco
+635,1999,5,1999-05-30,,spain,Gran Premio Marlboro de España 1999,catalunya,RACE,65,,,False,05-spain
+636,1999,6,1999-06-13,,canada,Grand Prix Air Canada 1999,montreal,STREET,69,,,False,06-canada
+637,1999,7,1999-06-27,,france,Mobil 1 Grand Prix de France 1999,magny-cours,RACE,72,,,False,07-france
+638,1999,8,1999-07-11,,great-britain,1999 RAC British Grand Prix,silverstone,RACE,60,,,False,08-great-britain
+639,1999,9,1999-07-25,,austria,Grosser Preis von Österreich 1999,spielberg,RACE,71,,,False,09-austria
+640,1999,10,1999-08-01,,germany,Grosser Mobil 1 Preis von Deutschland 1999,hockenheimring,RACE,45,,,False,10-germany
+641,1999,11,1999-08-15,,hungary,Marlboro Magyar Nagydíj 1999,hungaroring,RACE,77,,,False,11-hungary
+642,1999,12,1999-08-29,,belgium,1999 Foster's Belgian Grand Prix,spa-francorchamps,RACE,44,,,False,12-belgium
+643,1999,13,1999-09-12,,italy,Gran Premio Campari d'Italia 1999,monza,RACE,53,,,False,13-italy
+644,1999,14,1999-09-26,,europe,1999 Warsteiner Grand Prix of Europe,nurburgring,RACE,66,,,False,14-europe
+645,1999,15,1999-10-17,,malaysia,1999 Petronas Malaysian Grand Prix,sepang,RACE,56,,,False,15-malaysia
+646,1999,16,1999-10-31,,japan,1999 Fuji Television Japanese Grand Prix,suzuka,RACE,53,,,False,16-japan
+647,2000,1,2000-03-12,,australia,2000 Qantas Australian Grand Prix,melbourne,STREET,58,,,False,01-australia
+648,2000,2,2000-03-26,,brazil,Grande Prêmio Marlboro do Brasil 2000,interlagos,RACE,71,,,False,02-brazil
+649,2000,3,2000-04-09,,san-marino,Gran Premio Warsteiner di San Marino 2000,imola,RACE,62,,,False,03-san-marino
+650,2000,4,2000-04-23,,great-britain,2000 Foster's British Grand Prix,silverstone,RACE,60,,,False,04-great-britain
+651,2000,5,2000-05-07,,spain,Gran Premio Marlboro de España 2000,catalunya,RACE,65,,,False,05-spain
+652,2000,6,2000-05-21,,europe,2000 Warsteiner Grand Prix of Europe,nurburgring,RACE,67,,,False,06-europe
+653,2000,7,2000-06-04,,monaco,Grand Prix de Monaco 2000,monaco,STREET,78,,,False,07-monaco
+654,2000,8,2000-06-18,,canada,Grand Prix Air Canada 2000,montreal,STREET,69,,,False,08-canada
+655,2000,9,2000-07-02,,france,Mobil 1 Grand Prix de France 2000,magny-cours,RACE,72,,,False,09-france
+656,2000,10,2000-07-16,,austria,Grosser A1 Preis von Österreich 2000,spielberg,RACE,71,,,False,10-austria
+657,2000,11,2000-07-30,,germany,Grosser Mobil 1 Preis von Deutschland 2000,hockenheimring,RACE,45,,,False,11-germany
+658,2000,12,2000-08-13,,hungary,Marlboro Magyar Nagydíj 2000,hungaroring,RACE,77,,,False,12-hungary
+659,2000,13,2000-08-27,,belgium,2000 Foster's Belgian Grand Prix,spa-francorchamps,RACE,44,,,False,13-belgium
+660,2000,14,2000-09-10,,italy,Gran Premio Campari d'Italia 2000,monza,RACE,53,,,False,14-italy
+661,2000,15,2000-09-24,,united-states,2000 SAP United States Grand Prix,indianapolis,RACE,73,,,False,15-united-states
+662,2000,16,2000-10-08,,japan,2000 Fuji Television Japanese Grand Prix,suzuka,RACE,53,,,False,16-japan
+663,2000,17,2000-10-22,,malaysia,2000 Petronas Malaysian Grand Prix,sepang,RACE,56,,,False,17-malaysia
+664,2001,1,2001-03-04,,australia,2001 Qantas Australian Grand Prix,melbourne,STREET,58,,,False,01-australia
+665,2001,2,2001-03-18,,malaysia,2001 Petronas Malaysian Grand Prix,sepang,RACE,55,,,False,02-malaysia
+666,2001,3,2001-04-01,,brazil,Grande Prêmio Marlboro do Brasil 2001,interlagos,RACE,71,,,False,03-brazil
+667,2001,4,2001-04-15,,san-marino,Gran Premio Warsteiner di San Marino 2001,imola,RACE,62,,,False,04-san-marino
+668,2001,5,2001-04-29,,spain,Gran Premio Marlboro de España 2001,catalunya,RACE,65,,,False,05-spain
+669,2001,6,2001-05-13,,austria,Grosser A1 Preis von Österreich 2001,spielberg,RACE,71,,,False,06-austria
+670,2001,7,2001-05-27,,monaco,Grand Prix de Monaco 2001,monaco,STREET,78,,,False,07-monaco
+671,2001,8,2001-06-10,,canada,Grand Prix Air Canada 2001,montreal,STREET,69,,,False,08-canada
+672,2001,9,2001-06-24,,europe,2001 Warsteiner Grand Prix of Europe,nurburgring,RACE,67,,,False,09-europe
+673,2001,10,2001-07-01,,france,Mobil 1 Grand Prix de France 2001,magny-cours,RACE,72,,,False,10-france
+674,2001,11,2001-07-15,,great-britain,2001 Foster's British Grand Prix,silverstone,RACE,60,,,False,11-great-britain
+675,2001,12,2001-07-29,,germany,Grosser Mobil 1 Preis von Deutschland 2001,hockenheimring,RACE,45,,,False,12-germany
+676,2001,13,2001-08-19,,hungary,Marlboro Magyar Nagydíj 2001,hungaroring,RACE,77,,,False,13-hungary
+677,2001,14,2001-09-02,,belgium,2001 Foster's Belgian Grand Prix,spa-francorchamps,RACE,36,,,False,14-belgium
+678,2001,15,2001-09-16,,italy,Gran Premio Campari d'Italia 2001,monza,RACE,53,,,False,15-italy
+679,2001,16,2001-09-30,,united-states,2001 SAP United States Grand Prix,indianapolis,RACE,73,,,False,16-united-states
+680,2001,17,2001-10-14,,japan,2001 Fuji Television Japanese Grand Prix,suzuka,RACE,53,,,False,17-japan
+681,2002,1,2002-03-03,,australia,2002 Foster's Australian Grand Prix,melbourne,STREET,58,,,False,01-australia
+682,2002,2,2002-03-17,,malaysia,2002 Petronas Malaysian Grand Prix,sepang,RACE,56,,,False,02-malaysia
+683,2002,3,2002-03-31,,brazil,Grande Prêmio do Brasil 2002,interlagos,RACE,71,,,False,03-brazil
+684,2002,4,2002-04-14,,san-marino,Gran Premio di San Marino 2002,imola,RACE,62,,,False,04-san-marino
+685,2002,5,2002-04-28,,spain,Gran Premio Marlboro de España 2002,catalunya,RACE,65,,,False,05-spain
+686,2002,6,2002-05-12,,austria,Grosser A1 Preis von Österreich 2002,spielberg,RACE,71,,,False,06-austria
+687,2002,7,2002-05-26,,monaco,Grand Prix de Monaco 2002,monaco,STREET,78,,,False,07-monaco
+688,2002,8,2002-06-09,,canada,Grand Prix Air Canada 2002,montreal,STREET,70,,,False,08-canada
+689,2002,9,2002-06-23,,europe,2002 Allianz Grand Prix of Europe,nurburgring,RACE,60,,,False,09-europe
+690,2002,10,2002-07-07,,great-britain,2002 Foster's British Grand Prix,silverstone,RACE,60,,,False,10-great-britain
+691,2002,11,2002-07-21,,france,Mobil 1 Grand Prix de France 2002,magny-cours,RACE,72,,,False,11-france
+692,2002,12,2002-07-28,,germany,Grosser Mobil 1 Preis von Deutschland 2002,hockenheimring,RACE,67,,,False,12-germany
+693,2002,13,2002-08-18,,hungary,Marlboro Magyar Nagydíj 2002,hungaroring,RACE,77,,,False,13-hungary
+694,2002,14,2002-09-01,,belgium,2002 Foster's Belgian Grand Prix,spa-francorchamps,RACE,44,,,False,14-belgium
+695,2002,15,2002-09-15,,italy,Gran Premio Vodafone d'Italia 2002,monza,RACE,53,,,False,15-italy
+696,2002,16,2002-09-29,,united-states,2002 SAP United States Grand Prix,indianapolis,RACE,73,,,False,16-united-states
+697,2002,17,2002-10-13,,japan,2002 Fuji Television Japanese Grand Prix,suzuka,RACE,53,,,False,17-japan
+698,2003,1,2003-03-09,,australia,2003 Foster's Australian Grand Prix,melbourne,STREET,58,,,False,01-australia
+699,2003,2,2003-03-23,,malaysia,2003 Petronas Malaysian Grand Prix,sepang,RACE,56,,,False,02-malaysia
+700,2003,3,2003-04-06,,brazil,Grande Prêmio do Brasil 2003,interlagos,RACE,54,,,False,03-brazil
+701,2003,4,2003-04-20,,san-marino,Gran Premio Foster's di San Marino 2003,imola,RACE,62,,,False,04-san-marino
+702,2003,5,2003-05-04,,spain,Gran Premio Marlboro de España 2003,catalunya,RACE,65,,,False,05-spain
+703,2003,6,2003-05-18,,austria,A1 Grand Prix von Österreich 2003,spielberg,RACE,69,,,False,06-austria
+704,2003,7,2003-06-01,,monaco,Grand Prix de Monaco 2003,monaco,STREET,78,,,False,07-monaco
+705,2003,8,2003-06-15,,canada,Grand Prix Air Canada 2003,montreal,STREET,70,,,False,08-canada
+706,2003,9,2003-06-29,,europe,2003 Allianz Grand Prix of Europe,nurburgring,RACE,60,,,False,09-europe
+707,2003,10,2003-07-06,,france,Mobil 1 Grand Prix de France 2003,magny-cours,RACE,70,,,False,10-france
+708,2003,11,2003-07-20,,great-britain,2003 Foster's British Grand Prix,silverstone,RACE,60,,,False,11-great-britain
+709,2003,12,2003-08-03,,germany,Grosser Mobil 1 Preis von Deutschland 2003,hockenheimring,RACE,67,,,False,12-germany
+710,2003,13,2003-08-24,,hungary,Marlboro Magyar Nagydíj 2003,hungaroring,RACE,70,,,False,13-hungary
+711,2003,14,2003-09-14,,italy,Gran Premio Vodafone d'Italia 2003,monza,RACE,53,,,False,14-italy
+712,2003,15,2003-09-28,,united-states,2003 SAP United States Grand Prix,indianapolis,RACE,73,,,False,15-united-states
+713,2003,16,2003-10-12,,japan,2003 Fuji Television Japanese Grand Prix,suzuka,RACE,53,,,False,16-japan
+714,2004,1,2004-03-07,,australia,2004 Foster's Australian Grand Prix,melbourne,STREET,58,,,False,01-australia
+715,2004,2,2004-03-21,,malaysia,2004 Petronas Malaysian Grand Prix,sepang,RACE,56,,,False,02-malaysia
+716,2004,3,2004-04-04,,bahrain,2004 Gulf Air Bahrain Grand Prix,bahrain,RACE,57,,,False,03-bahrain
+717,2004,4,2004-04-25,,san-marino,Gran Premio Foster's di San Marino 2004,imola,RACE,62,,,False,04-san-marino
+718,2004,5,2004-05-09,,spain,Formula 1 Gran Premio Marlboro de España 2004,catalunya,RACE,66,,,False,05-spain
+719,2004,6,2004-05-23,,monaco,Formula 1 Grand Prix de Monaco 2004,monaco,STREET,77,,,False,06-monaco
+720,2004,7,2004-05-30,,europe,2004 Formula 1 Allianz Grand Prix of Europe,nurburgring,RACE,60,,,False,07-europe
+721,2004,8,2004-06-13,,canada,Formula 1 Grand Prix du Canada 2004,montreal,STREET,70,,,False,08-canada
+722,2004,9,2004-06-20,,united-states,2004 Formula 1 United States Grand Prix,indianapolis,RACE,73,,,False,09-united-states
+723,2004,10,2004-07-04,,france,Formula 1 Mobil 1 Grand Prix de France 2004,magny-cours,RACE,70,,,False,10-france
+724,2004,11,2004-07-11,,great-britain,2004 Formula 1 Foster's British Grand Prix,silverstone,RACE,60,,,False,11-great-britain
+725,2004,12,2004-07-25,,germany,Formula 1 Grosser Mobil 1 Preis von Deutschland 2004,hockenheimring,RACE,66,,,False,12-germany
+726,2004,13,2004-08-15,,hungary,Formula 1 Marlboro Magyar Nagydíj 2004,hungaroring,RACE,70,,,False,13-hungary
+727,2004,14,2004-08-29,,belgium,2004 Formula 1 Belgian Grand Prix,spa-francorchamps,RACE,44,,,False,14-belgium
+728,2004,15,2004-09-12,,italy,Formula 1 Gran Premio Vodafone d'Italia 2004,monza,RACE,53,,,False,15-italy
+729,2004,16,2004-09-26,,china,2004 Formula 1 Sinopec Chinese Grand Prix,shanghai,RACE,56,,,False,16-china
+730,2004,17,2004-10-10,,japan,2004 Formula 1 Fuji Television Japanese Grand Prix,suzuka,RACE,53,,,False,17-japan
+731,2004,18,2004-10-24,,brazil,Formula 1 Grande Prêmio do Brasil 2004,interlagos,RACE,71,,,False,18-brazil
+732,2005,1,2005-03-06,,australia,2005 Formula 1 Foster's Australian Grand Prix,melbourne,STREET,57,,,False,01-australia
+733,2005,2,2005-03-20,,malaysia,2005 Formula 1 Petronas Malaysian Grand Prix,sepang,RACE,56,,,False,02-malaysia
+734,2005,3,2005-04-03,,bahrain,2005 Formula 1 Gulf Air Bahrain Grand Prix,bahrain,RACE,57,,,False,03-bahrain
+735,2005,4,2005-04-24,,san-marino,Formula 1 Gran Premio Foster's di San Marino 2005,imola,RACE,62,,,False,04-san-marino
+736,2005,5,2005-05-08,,spain,Formula 1 Gran Premio Marlboro de España 2005,catalunya,RACE,66,,,False,05-spain
+737,2005,6,2005-05-22,,monaco,Formula 1 Grand Prix de Monaco 2005,monaco,STREET,78,,,False,06-monaco
+738,2005,7,2005-05-29,,europe,2005 Formula 1 Grand Prix of Europe,nurburgring,RACE,59,,,False,07-europe
+739,2005,8,2005-06-12,,canada,Formula 1 Grand Prix du Canada 2005,montreal,STREET,70,,,False,08-canada
+740,2005,9,2005-06-19,,united-states,2005 Foster's United States Grand Prix,indianapolis,RACE,73,,,False,09-united-states
+741,2005,10,2005-07-03,,france,Formula 1 Grand Prix de France 2005,magny-cours,RACE,70,,,False,10-france
+742,2005,11,2005-07-10,,great-britain,2005 Formula 1 Foster's British Grand Prix,silverstone,RACE,60,,,False,11-great-britain
+743,2005,12,2005-07-24,,germany,Formula 1 Grosser Mobil 1 Preis von Deutschland 2005,hockenheimring,RACE,67,,,False,12-germany
+744,2005,13,2005-07-31,,hungary,Formula 1 Marlboro Magyar Nagydíj 2005,hungaroring,RACE,70,,,False,13-hungary
+745,2005,14,2005-08-21,,turkey,2005 Formula 1 Turkish Grand Prix,istanbul,RACE,58,,,False,14-turkey
+746,2005,15,2005-09-04,,italy,Formula 1 Gran Premio Vodafone d'Italia 2005,monza,RACE,53,,,False,15-italy
+747,2005,16,2005-09-11,,belgium,2005 Formula 1 Belgian Grand Prix,spa-francorchamps,RACE,44,,,False,16-belgium
+748,2005,17,2005-09-25,,brazil,Formula 1 Grande Prêmio do Brasil 2005,interlagos,RACE,71,,,False,17-brazil
+749,2005,18,2005-10-09,,japan,2005 Formula 1 Fuji Television Japanese Grand Prix,suzuka,RACE,53,,,False,18-japan
+750,2005,19,2005-10-16,,china,2005 Formula 1 Sinopec Chinese Grand Prix,shanghai,RACE,56,,,False,19-china
+751,2006,1,2006-03-12,,bahrain,2006 Formula 1 Gulf Air Bahrain Grand Prix,bahrain,RACE,57,,,False,01-bahrain
+752,2006,2,2006-03-19,,malaysia,2006 Formula 1 Petronas Malaysian Grand Prix,sepang,RACE,56,,,False,02-malaysia
+753,2006,3,2006-04-02,,australia,2006 Formula 1 Foster's Australian Grand Prix,melbourne,STREET,57,,,False,03-australia
+754,2006,4,2006-04-23,,san-marino,Formula 1 Gran Premio Foster's di San Marino 2006,imola,RACE,62,,,False,04-san-marino
+755,2006,5,2006-05-07,,europe,2006 Formula 1 Grand Prix of Europe,nurburgring,RACE,60,,,False,05-europe
+756,2006,6,2006-05-14,,spain,Formula 1 Gran Premio Telefónica de España 2006,catalunya,RACE,66,,,False,06-spain
+757,2006,7,2006-05-28,,monaco,Formula 1 Grand Prix de Monaco 2006,monaco,STREET,78,,,False,07-monaco
+758,2006,8,2006-06-11,,great-britain,2006 Formula 1 Foster's British Grand Prix,silverstone,RACE,60,,,False,08-great-britain
+759,2006,9,2006-06-25,,canada,Formula 1 Grand Prix du Canada 2006,montreal,STREET,70,,,False,09-canada
+760,2006,10,2006-07-02,,united-states,2006 United States Grand Prix,indianapolis,RACE,73,,,False,10-united-states
+761,2006,11,2006-07-16,,france,Formula 1 Grand Prix de France 2006,magny-cours,RACE,70,,,False,11-france
+762,2006,12,2006-07-30,,germany,Formula 1 Grosser Mobil 1 Preis von Deutschland 2006,hockenheimring,RACE,67,,,False,12-germany
+763,2006,13,2006-08-06,,hungary,Formula 1 Magyar Nagydíj 2006,hungaroring,RACE,70,,,False,13-hungary
+764,2006,14,2006-08-27,,turkey,2006 Formula 1 Petrol Ofisi Turkish Grand Prix,istanbul,RACE,58,,,False,14-turkey
+765,2006,15,2006-09-10,,italy,Formula 1 Gran Premio Vodafone d'Italia 2006,monza,RACE,53,,,False,15-italy
+766,2006,16,2006-10-01,,china,2006 Formula 1 Sinopec Chinese Grand Prix,shanghai,RACE,56,,,False,16-china
+767,2006,17,2006-10-08,,japan,2006 Formula 1 Fuji Television Japanese Grand Prix,suzuka,RACE,53,,,False,17-japan
+768,2006,18,2006-10-22,,brazil,Formula 1 Grande Prêmio do Brasil 2006,interlagos,RACE,71,,,False,18-brazil
+769,2007,1,2007-03-18,,australia,2007 Formula 1 ING Australian Grand Prix,melbourne,STREET,58,,,False,01-australia
+770,2007,2,2007-04-08,,malaysia,2007 Formula 1 Petronas Malaysian Grand Prix,sepang,RACE,56,,,False,02-malaysia
+771,2007,3,2007-04-15,,bahrain,2007 Formula 1 Gulf Air Bahrain Grand Prix,bahrain,RACE,57,,,False,03-bahrain
+772,2007,4,2007-05-13,,spain,Formula 1 Gran Premio de España Telefónica 2007,catalunya,RACE,65,,,False,04-spain
+773,2007,5,2007-05-27,,monaco,Formula 1 Grand Prix de Monaco 2007,monaco,STREET,78,,,False,05-monaco
+774,2007,6,2007-06-10,,canada,Formula 1 Grand Prix du Canada 2007,montreal,STREET,70,,,False,06-canada
+775,2007,7,2007-06-17,,united-states,2007 RBS United States Grand Prix,indianapolis,RACE,73,,,False,07-united-states
+776,2007,8,2007-07-01,,france,Formula 1 Grand Prix de France 2007,magny-cours,RACE,70,,,False,08-france
+777,2007,9,2007-07-08,,great-britain,2007 Formula 1 Santander British Grand Prix,silverstone,RACE,59,,,False,09-great-britain
+778,2007,10,2007-07-22,,europe,2007 Formula 1 Grand Prix of Europe,nurburgring,RACE,60,,,False,10-europe
+779,2007,11,2007-08-05,,hungary,Formula 1 Magyar Nagydíj 2007,hungaroring,RACE,70,,,False,11-hungary
+780,2007,12,2007-08-26,,turkey,2007 Formula 1 Petrol Ofisi Turkish Grand Prix,istanbul,RACE,58,,,False,12-turkey
+781,2007,13,2007-09-09,,italy,Formula 1 Gran Premio d'Italia 2007,monza,RACE,53,,,False,13-italy
+782,2007,14,2007-09-16,,belgium,2007 Formula 1 ING Belgian Grand Prix,spa-francorchamps,RACE,44,,,False,14-belgium
+783,2007,15,2007-09-30,,japan,2007 Formula 1 Fuji Television Japanese Grand Prix,fuji,RACE,67,,,False,15-japan
+784,2007,16,2007-10-07,,china,2007 Formula 1 Sinopec Chinese Grand Prix,shanghai,RACE,56,,,False,16-china
+785,2007,17,2007-10-21,,brazil,Formula 1 Grande Prêmio do Brasil 2007,interlagos,RACE,71,,,False,17-brazil
+786,2008,1,2008-03-16,,australia,2008 Formula 1 ING Australian Grand Prix,melbourne,STREET,58,,,False,01-australia
+787,2008,2,2008-03-23,,malaysia,2008 Formula 1 Petronas Malaysian Grand Prix,sepang,RACE,56,,,False,02-malaysia
+788,2008,3,2008-04-06,,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,bahrain,RACE,57,,,False,03-bahrain
+789,2008,4,2008-04-27,,spain,Formula 1 Gran Premio de España Telefónica 2008,catalunya,RACE,66,,,False,04-spain
+790,2008,5,2008-05-11,,turkey,2008 Formula 1 Petrol Ofisi Turkish Grand Prix,istanbul,RACE,58,,,False,05-turkey
+791,2008,6,2008-05-25,,monaco,Formula 1 Grand Prix de Monaco 2008,monaco,STREET,76,,,False,06-monaco
+792,2008,7,2008-06-08,,canada,Formula 1 Grand Prix du Canada 2008,montreal,STREET,70,,,False,07-canada
+793,2008,8,2008-06-22,,france,Formula 1 Grand Prix de France 2008,magny-cours,RACE,70,,,False,08-france
+794,2008,9,2008-07-06,,great-britain,2008 Formula 1 Santander British Grand Prix,silverstone,RACE,60,,,False,09-great-britain
+795,2008,10,2008-07-20,,germany,Formula 1 Grosser Preis Santander von Deutschland 2008,hockenheimring,RACE,67,,,False,10-germany
+796,2008,11,2008-08-03,,hungary,Formula 1 ING Magyar Nagydíj 2008,hungaroring,RACE,70,,,False,11-hungary
+797,2008,12,2008-08-24,,europe,2008 Formula 1 Telefónica Grand Prix of Europe,valencia,STREET,57,,,False,12-europe
+798,2008,13,2008-09-07,,belgium,2008 Formula 1 ING Belgian Grand Prix,spa-francorchamps,RACE,44,,,False,13-belgium
+799,2008,14,2008-09-14,,italy,Formula 1 Gran Premio Santander d'Italia 2008,monza,RACE,53,,,False,14-italy
+800,2008,15,2008-09-28,,singapore,2008 Formula 1 SingTel Singapore Grand Prix,marina-bay,STREET,61,,,False,15-singapore
+801,2008,16,2008-10-12,,japan,2008 Formula 1 Fuji Television Japanese Grand Prix,fuji,RACE,67,,,False,16-japan
+802,2008,17,2008-10-19,,china,2008 Formula 1 Sinopec Chinese Grand Prix,shanghai,RACE,56,,,False,17-china
+803,2008,18,2008-11-02,,brazil,Formula 1 Grande Prêmio do Brasil 2008,interlagos,RACE,71,,,False,18-brazil
+804,2009,1,2009-03-29,,australia,2009 Formula 1 ING Australian Grand Prix,melbourne,STREET,58,,,False,01-australia
+805,2009,2,2009-04-05,,malaysia,2009 Formula 1 Petronas Malaysian Grand Prix,sepang,RACE,31,,,False,02-malaysia
+806,2009,3,2009-04-19,,china,2009 Formula 1 Chinese Grand Prix,shanghai,RACE,56,,,False,03-china
+807,2009,4,2009-04-26,,bahrain,2009 Formula 1 Gulf Air Bahrain Grand Prix,bahrain,RACE,57,,,False,04-bahrain
+808,2009,5,2009-05-10,,spain,Formula 1 Gran Premio de España Telefónica 2009,catalunya,RACE,66,,,False,05-spain
+809,2009,6,2009-05-24,,monaco,Formula 1 Grand Prix de Monaco 2009,monaco,STREET,78,,,False,06-monaco
+810,2009,7,2009-06-07,,turkey,2009 Formula 1 ING Turkish Grand Prix,istanbul,RACE,58,,,False,07-turkey
+811,2009,8,2009-06-21,,great-britain,2009 Formula 1 Santander British Grand Prix,silverstone,RACE,60,,,False,08-great-britain
+812,2009,9,2009-07-12,,germany,Formula 1 Grosser Preis Santander von Deutschland 2009,nurburgring,RACE,60,,,False,09-germany
+813,2009,10,2009-07-26,,hungary,Formula 1 ING Magyar Nagydíj 2009,hungaroring,RACE,70,,,False,10-hungary
+814,2009,11,2009-08-23,,europe,2009 Formula 1 Telefónica Grand Prix of Europe,valencia,STREET,57,,,False,11-europe
+815,2009,12,2009-08-30,,belgium,2009 Formula 1 ING Belgian Grand Prix,spa-francorchamps,RACE,44,,,False,12-belgium
+816,2009,13,2009-09-13,,italy,Formula 1 Gran Premio Santander d'Italia 2009,monza,RACE,53,,,False,13-italy
+817,2009,14,2009-09-27,,singapore,2009 Formula 1 SingTel Singapore Grand Prix,marina-bay,STREET,61,,,False,14-singapore
+818,2009,15,2009-10-04,,japan,2009 Formula 1 Fuji Television Japanese Grand Prix,suzuka,RACE,53,,,False,15-japan
+819,2009,16,2009-10-18,,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2009,interlagos,RACE,71,,,False,16-brazil
+820,2009,17,2009-11-01,,abu-dhabi,2009 Formula 1 Etihad Airways Abu Dhabi Grand Prix,yas-marina,RACE,55,,,False,17-abu-dhabi
+821,2010,1,2010-03-14,,bahrain,2010 Formula 1 Gulf Air Bahrain Grand Prix,bahrain,RACE,49,,,False,01-bahrain
+822,2010,2,2010-03-28,,australia,2010 Formula 1 Qantas Australian Grand Prix,melbourne,STREET,58,,,False,02-australia
+823,2010,3,2010-04-04,,malaysia,2010 Formula 1 Petronas Malaysian Grand Prix,sepang,RACE,56,,,False,03-malaysia
+824,2010,4,2010-04-18,,china,2010 Formula 1 Chinese Grand Prix,shanghai,RACE,56,,,False,04-china
+825,2010,5,2010-05-09,,spain,Formula 1 Gran Premio de España Telefónica 2010,catalunya,RACE,66,,,False,05-spain
+826,2010,6,2010-05-16,,monaco,Formula 1 Grand Prix de Monaco 2010,monaco,STREET,78,,,False,06-monaco
+827,2010,7,2010-05-30,,turkey,2010 Formula 1 Turkish Grand Prix,istanbul,RACE,58,,,False,07-turkey
+828,2010,8,2010-06-13,,canada,Formula 1 Grand Prix du Canada 2010,montreal,STREET,70,,,False,08-canada
+829,2010,9,2010-06-27,,europe,2010 Formula 1 Telefónica Grand Prix of Europe,valencia,STREET,57,,,False,09-europe
+830,2010,10,2010-07-11,,great-britain,2010 Formula 1 Santander British Grand Prix,silverstone,RACE,52,,,False,10-great-britain
+831,2010,11,2010-07-25,,germany,Formula 1 Grosser Preis Santander von Deutschland 2010,hockenheimring,RACE,67,,,False,11-germany
+832,2010,12,2010-08-01,,hungary,Formula 1 Eni Magyar Nagydíj 2010,hungaroring,RACE,70,,,False,12-hungary
+833,2010,13,2010-08-29,,belgium,2010 Formula 1 Belgian Grand Prix,spa-francorchamps,RACE,44,,,False,13-belgium
+834,2010,14,2010-09-12,,italy,Formula 1 Gran Premio Santander d'Italia 2010,monza,RACE,53,,,False,14-italy
+835,2010,15,2010-09-26,,singapore,2010 Formula 1 SingTel Singapore Grand Prix,marina-bay,STREET,61,,,False,15-singapore
+836,2010,16,2010-10-10,,japan,2010 Formula 1 Japanese Grand Prix,suzuka,RACE,53,,,False,16-japan
+837,2010,17,2010-10-24,,korea,2010 Formula 1 Korean Grand Prix,yeongam,RACE,55,,,False,17-korea
+838,2010,18,2010-11-07,,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2010,interlagos,RACE,71,,,False,18-brazil
+839,2010,19,2010-11-14,,abu-dhabi,2010 Formula 1 Etihad Airways Abu Dhabi Grand Prix,yas-marina,RACE,55,,,False,19-abu-dhabi
+840,2011,1,2011-03-27,,australia,2011 Formula 1 Qantas Australian Grand Prix,melbourne,STREET,58,,,False,01-australia
+841,2011,2,2011-04-10,,malaysia,2011 Petronas Malaysia Grand Prix,sepang,RACE,56,,,False,02-malaysia
+842,2011,3,2011-04-17,,china,2011 Formula 1 UBS Chinese Grand Prix,shanghai,RACE,56,,,False,03-china
+843,2011,4,2011-05-08,,turkey,2011 Formula 1 DHL Turkish Grand Prix,istanbul,RACE,58,,,False,04-turkey
+844,2011,5,2011-05-22,,spain,Formula 1 Gran Premio de España Santander 2011,catalunya,RACE,66,,,False,05-spain
+845,2011,6,2011-05-29,,monaco,Formula 1 Grand Prix de Monaco 2011,monaco,STREET,78,,,False,06-monaco
+846,2011,7,2011-06-12,,canada,Formula 1 Grand Prix du Canada 2011,montreal,STREET,70,,,False,07-canada
+847,2011,8,2011-06-26,,europe,2011 Formula 1 Grand Prix of Europe,valencia,STREET,57,,,False,08-europe
+848,2011,9,2011-07-10,,great-britain,2011 Formula 1 Santander British Grand Prix,silverstone,RACE,52,,,False,09-great-britain
+849,2011,10,2011-07-24,,germany,Formula 1 Grosser Preis Santander von Deutschland 2011,nurburgring,RACE,60,,,False,10-germany
+850,2011,11,2011-07-31,,hungary,Formula 1 Eni Magyar Nagydíj 2011,hungaroring,RACE,70,,,False,11-hungary
+851,2011,12,2011-08-28,,belgium,2011 Formula 1 Shell Belgian Grand Prix,spa-francorchamps,RACE,44,,,False,12-belgium
+852,2011,13,2011-09-11,,italy,Formula 1 Gran Premio Santander d'Italia 2011,monza,RACE,53,,,False,13-italy
+853,2011,14,2011-09-25,,singapore,2011 Formula 1 SingTel Singapore Grand Prix,marina-bay,STREET,61,,,False,14-singapore
+854,2011,15,2011-10-09,,japan,2011 Formula 1 Japanese Grand Prix,suzuka,RACE,53,,,False,15-japan
+855,2011,16,2011-10-16,,korea,2011 Formula 1 Korean Grand Prix,yeongam,RACE,55,,,False,16-korea
+856,2011,17,2011-10-30,,india,2011 Formula 1 Airtel Grand Prix of India,buddh,RACE,60,,,False,17-india
+857,2011,18,2011-11-13,,abu-dhabi,2011 Formula 1 Etihad Airways Abu Dhabi Grand Prix,yas-marina,RACE,55,,,False,18-abu-dhabi
+858,2011,19,2011-11-27,,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2011,interlagos,RACE,71,,,False,19-brazil
+859,2012,1,2012-03-18,,australia,2012 Formula 1 Qantas Australian Grand Prix,melbourne,STREET,58,,,False,01-australia
+860,2012,2,2012-03-25,,malaysia,2012 Formula 1 Petronas Malaysia Grand Prix,sepang,RACE,56,,,False,02-malaysia
+861,2012,3,2012-04-15,,china,2012 Formula 1 UBS Chinese Grand Prix,shanghai,RACE,56,,,False,03-china
+862,2012,4,2012-04-22,,bahrain,2012 Formula 1 Gulf Air Bahrain Grand Prix,bahrain,RACE,57,,,False,04-bahrain
+863,2012,5,2012-05-13,,spain,Formula 1 Gran Premio de España Santander 2012,catalunya,RACE,66,,,False,05-spain
+864,2012,6,2012-05-27,,monaco,Formula 1 Grand Prix de Monaco 2012,monaco,STREET,78,,,False,06-monaco
+865,2012,7,2012-06-10,,canada,Formula 1 Grand Prix du Canada 2012,montreal,STREET,70,,,False,07-canada
+866,2012,8,2012-06-24,,europe,2012 Formula 1 Grand Prix of Europe,valencia,STREET,57,,,False,08-europe
+867,2012,9,2012-07-08,,great-britain,2012 Formula 1 Santander British Grand Prix,silverstone,RACE,52,,,False,09-great-britain
+868,2012,10,2012-07-22,,germany,Formula 1 Grosser Preis Santander von Deutschland 2012,hockenheimring,RACE,67,,,False,10-germany
+869,2012,11,2012-07-29,,hungary,Formula 1 Eni Magyar Nagydij 2012,hungaroring,RACE,69,,,False,11-hungary
+870,2012,12,2012-09-02,,belgium,2012 Formula 1 Shell Belgian Grand Prix,spa-francorchamps,RACE,44,,,False,12-belgium
+871,2012,13,2012-09-09,,italy,Formula 1 Gran Premio Santander d'Italia 2012,monza,RACE,53,,,False,13-italy
+872,2012,14,2012-09-23,,singapore,2012 Formula 1 SingTel Singapore Grand Prix,marina-bay,STREET,59,,,False,14-singapore
+873,2012,15,2012-10-07,,japan,2012 Formula 1 Japanese Grand Prix,suzuka,RACE,53,,,False,15-japan
+874,2012,16,2012-10-14,,korea,2012 Formula 1 Korean Grand Prix,yeongam,RACE,55,,,False,16-korea
+875,2012,17,2012-10-28,,india,2012 Formula 1 Airtel Indian Grand Prix,buddh,RACE,60,,,False,17-india
+876,2012,18,2012-11-04,,abu-dhabi,2012 Formula 1 Etihad Airways Abu Dhabi Grand Prix,yas-marina,RACE,55,,,False,18-abu-dhabi
+877,2012,19,2012-11-18,,united-states,2012 Formula 1 United States Grand Prix,austin,RACE,56,,,False,19-united-states
+878,2012,20,2012-11-25,,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2012,interlagos,RACE,71,,,False,20-brazil
+879,2013,1,2013-03-17,,australia,2013 Formula 1 Rolex Australian Grand Prix,melbourne,STREET,58,,,False,01-australia
+880,2013,2,2013-03-24,,malaysia,2013 Formula 1 Petronas Malaysia Grand Prix,sepang,RACE,56,,,False,02-malaysia
+881,2013,3,2013-04-14,,china,2013 Formula 1 UBS Chinese Grand Prix,shanghai,RACE,56,,,False,03-china
+882,2013,4,2013-04-21,,bahrain,2013 Formula 1 Gulf Air Bahrain Grand Prix,bahrain,RACE,57,,,False,04-bahrain
+883,2013,5,2013-05-12,,spain,Formula 1 Gran Premio de España 2013,catalunya,RACE,66,,,False,05-spain
+884,2013,6,2013-05-26,,monaco,Formula 1 Grand Prix de Monaco 2013,monaco,STREET,78,,,False,06-monaco
+885,2013,7,2013-06-09,,canada,Formula 1 Grand Prix du Canada 2013,montreal,STREET,70,,,False,07-canada
+886,2013,8,2013-06-30,,great-britain,2013 Formula 1 Santander British Grand Prix,silverstone,RACE,52,,,False,08-great-britain
+887,2013,9,2013-07-07,,germany,Formula 1 Grosser Preis Santander von Deutschland 2013,nurburgring,RACE,60,,,False,09-germany
+888,2013,10,2013-07-28,,hungary,Formula 1 Magyar Nagydíj 2013,hungaroring,RACE,70,,,False,10-hungary
+889,2013,11,2013-08-25,,belgium,2013 Formula 1 Shell Belgian Grand Prix,spa-francorchamps,RACE,44,,,False,11-belgium
+890,2013,12,2013-09-08,,italy,Formula 1 Gran Premio d'Italia 2013,monza,RACE,53,,,False,12-italy
+891,2013,13,2013-09-22,,singapore,2013 Formula 1 SingTel Singapore Grand Prix,marina-bay,STREET,61,,,False,13-singapore
+892,2013,14,2013-10-06,,korea,2013 Formula 1 Korean Grand Prix,yeongam,RACE,55,,,False,14-korea
+893,2013,15,2013-10-13,,japan,2013 Formula 1 Japanese Grand Prix,suzuka,RACE,53,,,False,15-japan
+894,2013,16,2013-10-27,,india,2013 Formula 1 Airtel Indian Grand Prix,buddh,RACE,60,,,False,16-india
+895,2013,17,2013-11-03,,abu-dhabi,2013 Formula 1 Etihad Airways Abu Dhabi Grand Prix,yas-marina,RACE,55,,,False,17-abu-dhabi
+896,2013,18,2013-11-17,,united-states,2013 Formula 1 United States Grand Prix,austin,RACE,56,,,False,18-united-states
+897,2013,19,2013-11-24,,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2013,interlagos,RACE,71,,,False,19-brazil
+898,2014,1,2014-03-16,,australia,2014 Formula 1 Rolex Australian Grand Prix,melbourne,STREET,57,,,False,01-australia
+899,2014,2,2014-03-30,,malaysia,2014 Formula 1 Petronas Malaysia Grand Prix,sepang,RACE,56,,,False,02-malaysia
+900,2014,3,2014-04-06,,bahrain,2014 Formula 1 Gulf Air Bahrain Grand Prix,bahrain,RACE,57,,,False,03-bahrain
+901,2014,4,2014-04-20,,china,2014 Formula 1 UBS Chinese Grand Prix,shanghai,RACE,54,,,False,04-china
+902,2014,5,2014-05-11,,spain,Formula 1 Gran Premio de España Pirelli 2014,catalunya,RACE,66,,,False,05-spain
+903,2014,6,2014-05-25,,monaco,Formula 1 Grand Prix de Monaco 2014,monaco,STREET,78,,,False,06-monaco
+904,2014,7,2014-06-08,,canada,Formula 1 Grand Prix du Canada 2014,montreal,STREET,70,,,False,07-canada
+905,2014,8,2014-06-22,,austria,Formula 1 DHL Grosser Preis Von Österreich 2014,spielberg,RACE,71,,,False,08-austria
+906,2014,9,2014-07-06,,great-britain,2014 Formula 1 Santander British Grand Prix,silverstone,RACE,52,,,False,09-great-britain
+907,2014,10,2014-07-20,,germany,Formula 1 Grosser Preis Santander von Deutschland 2014,hockenheimring,RACE,67,,,False,10-germany
+908,2014,11,2014-07-27,,hungary,Formula 1 Pirelli Magyar Nagydíj 2014,hungaroring,RACE,70,,,False,11-hungary
+909,2014,12,2014-08-24,,belgium,2014 Formula 1 Shell Belgian Grand Prix,spa-francorchamps,RACE,44,,,False,12-belgium
+910,2014,13,2014-09-07,,italy,Formula 1 Gran Premio d'Italia 2014,monza,RACE,53,,,False,13-italy
+911,2014,14,2014-09-21,,singapore,2014 Formula 1 Singapore Airlines Singapore Grand Prix,marina-bay,STREET,60,,,False,14-singapore
+912,2014,15,2014-10-05,,japan,2014 Formula 1 Japanese Grand Prix,suzuka,RACE,44,,,False,15-japan
+913,2014,16,2014-10-12,,russia,2014 Formula 1 Russian Grand Prix,sirius,ROAD,53,,,False,16-russia
+914,2014,17,2014-11-02,,united-states,2014 Formula 1 United States Grand Prix,austin,RACE,56,,,False,17-united-states
+915,2014,18,2014-11-09,,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2014,interlagos,RACE,71,,,False,18-brazil
+916,2014,19,2014-11-23,,abu-dhabi,2014 Formula 1 Etihad Airways Abu Dhabi Grand Prix,yas-marina,RACE,55,,,False,19-abu-dhabi
+917,2015,1,2015-03-15,,australia,2015 Formula 1 Rolex Australian Grand Prix,melbourne,STREET,58,,,False,01-australia
+918,2015,2,2015-03-29,,malaysia,2015 Formula 1 Petronas Malaysia Grand Prix,sepang,RACE,56,,,False,02-malaysia
+919,2015,3,2015-04-12,,china,2015 Formula 1 Chinese Grand Prix,shanghai,RACE,56,,,False,03-china
+920,2015,4,2015-04-19,,bahrain,2015 Formula 1 Gulf Air Bahrain Grand Prix,bahrain,RACE,57,,,False,04-bahrain
+921,2015,5,2015-05-10,,spain,Formula 1 Gran Premio de España Pirelli 2015,catalunya,RACE,66,,,False,05-spain
+922,2015,6,2015-05-24,,monaco,Formula 1 Grand Prix de Monaco 2015,monaco,STREET,78,,,False,06-monaco
+923,2015,7,2015-06-07,,canada,Formula 1 Grand Prix du Canada 2015,montreal,STREET,70,,,False,07-canada
+924,2015,8,2015-06-21,,austria,Formula 1 Rolex Grosser Preis von Österreich 2015,spielberg,RACE,71,,,False,08-austria
+925,2015,9,2015-07-05,,great-britain,2015 Formula 1 British Grand Prix,silverstone,RACE,52,,,False,09-great-britain
+926,2015,10,2015-07-26,,hungary,Formula 1 Pirelli Magyar Nagydíj 2015,hungaroring,RACE,69,,,False,10-hungary
+927,2015,11,2015-08-23,,belgium,2015 Formula 1 Shell Belgian Grand Prix,spa-francorchamps,RACE,43,,,False,11-belgium
+928,2015,12,2015-09-06,,italy,Formula 1 Gran Premio d'Italia 2015,monza,RACE,53,,,False,12-italy
+929,2015,13,2015-09-20,,singapore,2015 Formula 1 Singapore Airlines Singapore Grand Prix,marina-bay,STREET,61,,,False,13-singapore
+930,2015,14,2015-09-27,,japan,2015 Formula 1 Japanese Grand Prix,suzuka,RACE,53,,,False,14-japan
+931,2015,15,2015-10-11,,russia,2015 Formula 1 Russian Grand Prix,sirius,ROAD,53,,,False,15-russia
+932,2015,16,2015-10-25,,united-states,2015 Formula 1 United States Grand Prix,austin,RACE,56,,,False,16-united-states
+933,2015,17,2015-11-01,,mexico,Formula 1 Gran Premio de México 2015,mexico-city,RACE,71,,,False,17-mexico
+934,2015,18,2015-11-15,,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2015,interlagos,RACE,71,,,False,18-brazil
+935,2015,19,2015-11-29,,abu-dhabi,2015 Formula 1 Etihad Airways Abu Dhabi Grand Prix,yas-marina,RACE,55,,,False,19-abu-dhabi
+936,2016,1,2016-03-20,,australia,2016 Formula 1 Rolex Australian Grand Prix,melbourne,STREET,57,,,False,01-australia
+937,2016,2,2016-04-03,,bahrain,2016 Formula 1 Gulf Air Bahrain Grand Prix,bahrain,RACE,57,,,False,02-bahrain
+938,2016,3,2016-04-17,,china,2016 Formula 1 Pirelli Chinese Grand Prix,shanghai,RACE,56,,,False,03-china
+939,2016,4,2016-05-01,,russia,2016 Formula 1 Russian Grand Prix,sirius,ROAD,53,,,False,04-russia
+940,2016,5,2016-05-15,,spain,Formula 1 Gran Premio de España Pirelli 2016,catalunya,RACE,66,,,False,05-spain
+941,2016,6,2016-05-29,,monaco,Formula 1 Grand Prix de Monaco 2016,monaco,STREET,78,,,False,06-monaco
+942,2016,7,2016-06-12,,canada,Formula 1 Grand Prix du Canada 2016,montreal,STREET,70,,,False,07-canada
+943,2016,8,2016-06-19,,europe,Formula 1 Rolex Grand Prix of Europe 2016,baku,STREET,51,,,False,08-europe
+944,2016,9,2016-07-03,,austria,Formula 1 Pirelli Grosser Preis von Österreich 2016,spielberg,RACE,71,,,False,09-austria
+945,2016,10,2016-07-10,,great-britain,2016 Formula 1 British Grand Prix,silverstone,RACE,52,,,False,10-great-britain
+946,2016,11,2016-07-24,,hungary,Formula 1 Magyar Nagydíj 2016,hungaroring,RACE,70,,,False,11-hungary
+947,2016,12,2016-07-31,,germany,Formula 1 Grosser Preis von Deutschland 2016,hockenheimring,RACE,67,,,False,12-germany
+948,2016,13,2016-08-28,,belgium,2016 Formula 1 Belgian Grand Prix,spa-francorchamps,RACE,44,,,False,13-belgium
+949,2016,14,2016-09-04,,italy,Formula 1 Gran Premio Heineken d'Italia 2016,monza,RACE,53,,,False,14-italy
+950,2016,15,2016-09-18,,singapore,2016 Formula 1 Singapore Airlines Singapore Grand Prix,marina-bay,STREET,61,,,False,15-singapore
+951,2016,16,2016-10-02,,malaysia,2016 Formula 1 Petronas Malaysia Grand Prix,sepang,RACE,56,,,False,16-malaysia
+952,2016,17,2016-10-09,,japan,2016 Formula 1 Emirates Japanese Grand Prix,suzuka,RACE,53,,,False,17-japan
+953,2016,18,2016-10-23,,united-states,2016 Formula 1 United States Grand Prix,austin,RACE,56,,,False,18-united-states
+954,2016,19,2016-10-30,,mexico,Formula 1 Gran Premio de México 2016,mexico-city,RACE,71,,,False,19-mexico
+955,2016,20,2016-11-13,,brazil,Formula 1 Grande Prêmio do Brasil 2016,interlagos,RACE,71,,,False,20-brazil
+956,2016,21,2016-11-27,,abu-dhabi,2016 Formula 1 Etihad Airways Abu Dhabi Grand Prix,yas-marina,RACE,55,,,False,21-abu-dhabi
+957,2017,1,2017-03-26,,australia,2017 Formula 1 Rolex Australian Grand Prix,melbourne,STREET,57,,,False,01-australia
+958,2017,2,2017-04-09,,china,2017 Formula 1 Heineken Chinese Grand Prix,shanghai,RACE,56,,,False,02-china
+959,2017,3,2017-04-16,,bahrain,2017 Formula 1 Gulf Air Bahrain Grand Prix,bahrain,RACE,57,,,False,03-bahrain
+960,2017,4,2017-04-30,,russia,2017 Formula 1 VTB Russian Grand Prix,sirius,ROAD,52,,,False,04-russia
+961,2017,5,2017-05-14,,spain,Formula 1 Gran Premio de España Pirelli 2017,catalunya,RACE,66,,,False,05-spain
+962,2017,6,2017-05-28,,monaco,Formula 1 Grand Prix de Monaco 2017,monaco,STREET,78,,,False,06-monaco
+963,2017,7,2017-06-11,,canada,Formula 1 Grand Prix du Canada 2017,montreal,STREET,70,,,False,07-canada
+964,2017,8,2017-06-25,,azerbaijan,Formula 1 FlyEmirates Azerbaijan Grand Prix 2017,baku,STREET,51,,,False,08-azerbaijan
+965,2017,9,2017-07-09,,austria,Formula 1 FlyEmirates Grosser Preis von Österreich 2017,spielberg,RACE,71,,,False,09-austria
+966,2017,10,2017-07-16,,great-britain,2017 Formula 1 Rolex British Grand Prix,silverstone,RACE,51,,,False,10-great-britain
+967,2017,11,2017-07-30,,hungary,Formula 1 Pirelli Magyar Nagydíj 2017,hungaroring,RACE,70,,,False,11-hungary
+968,2017,12,2017-08-27,,belgium,2017 Formula 1 Pirelli Belgian Grand Prix,spa-francorchamps,RACE,44,,,False,12-belgium
+969,2017,13,2017-09-03,,italy,Formula 1 Gran Premio Heineken d'Italia 2017,monza,RACE,53,,,False,13-italy
+970,2017,14,2017-09-17,,singapore,2017 Formula 1 Singapore Airlines Singapore Grand Prix,marina-bay,STREET,58,,,False,14-singapore
+971,2017,15,2017-10-01,,malaysia,2017 Formula 1 Petronas Malaysia Grand Prix,sepang,RACE,56,,,False,15-malaysia
+972,2017,16,2017-10-08,,japan,2017 Formula 1 Japanese Grand Prix,suzuka,RACE,53,,,False,16-japan
+973,2017,17,2017-10-22,,united-states,2017 Formula 1 United States Grand Prix,austin,RACE,56,,,False,17-united-states
+974,2017,18,2017-10-29,,mexico,Formula 1 Gran Premio de México 2017,mexico-city,RACE,71,,,False,18-mexico
+975,2017,19,2017-11-12,,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2017,interlagos,RACE,71,,,False,19-brazil
+976,2017,20,2017-11-26,,abu-dhabi,2017 Formula 1 Etihad Airways Abu Dhabi Grand Prix,yas-marina,RACE,55,,,False,20-abu-dhabi
+977,2018,1,2018-03-25,,australia,Formula 1 2018 Rolex Australian Grand Prix,melbourne,STREET,58,,,False,01-australia
+978,2018,2,2018-04-08,,bahrain,Formula 1 2018 Gulf Air Bahrain Grand Prix,bahrain,RACE,57,,,False,02-bahrain
+979,2018,3,2018-04-15,,china,Formula 1 2018 Heineken Chinese Grand Prix,shanghai,RACE,56,,,False,03-china
+980,2018,4,2018-04-29,,azerbaijan,Formula 1 2018 Rolex Azerbaijan Grand Prix,baku,STREET,51,,,False,04-azerbaijan
+981,2018,5,2018-05-13,,spain,Formula 1 Gran Premio de España Emirates 2018,catalunya,RACE,66,,,False,05-spain
+982,2018,6,2018-05-27,,monaco,Formula 1 Grand Prix de Monaco 2018,monaco,STREET,78,,,False,06-monaco
+983,2018,7,2018-06-10,,canada,Formula 1 Grand Prix Heineken du Canada 2018,montreal,STREET,68,,,False,07-canada
+984,2018,8,2018-06-24,,france,Formula 1 Pirelli Grand Prix de France 2018,paul-ricard,RACE,53,,,False,08-france
+985,2018,9,2018-07-01,,austria,Formula 1 Eyetime Grosser Preis von Österreich 2018,spielberg,RACE,71,,,False,09-austria
+986,2018,10,2018-07-08,,great-britain,Formula 1 2018 Rolex British Grand Prix,silverstone,RACE,52,,,False,10-great-britain
+987,2018,11,2018-07-22,,germany,Formula 1 Emirates Grosser Preis von Deutschland 2018,hockenheimring,RACE,67,,,False,11-germany
+988,2018,12,2018-07-29,,hungary,Formula 1 Rolex Magyar Nagydíj 2018,hungaroring,RACE,70,,,False,12-hungary
+989,2018,13,2018-08-26,,belgium,Formula 1 2018 Johnnie Walker Belgian Grand Prix,spa-francorchamps,RACE,44,,,False,13-belgium
+990,2018,14,2018-09-02,,italy,Formula 1 Gran Premio Heineken d'Italia 2018,monza,RACE,53,,,False,14-italy
+991,2018,15,2018-09-16,,singapore,Formula 1 2018 Singapore Airlines Singapore Grand Prix,marina-bay,STREET,61,,,False,15-singapore
+992,2018,16,2018-09-30,,russia,Formula 1 2018 VTB Russian Grand Prix,sirius,ROAD,53,,,False,16-russia
+993,2018,17,2018-10-07,,japan,Formula 1 2018 Honda Japanese Grand Prix,suzuka,RACE,53,,,False,17-japan
+994,2018,18,2018-10-21,,united-states,Formula 1 Pirelli 2018 United States Grand Prix,austin,RACE,56,,,False,18-united-states
+995,2018,19,2018-10-28,,mexico,Formula 1 Gran Premio de México 2018,mexico-city,RACE,71,,,False,19-mexico
+996,2018,20,2018-11-11,,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2018,interlagos,RACE,71,,,False,20-brazil
+997,2018,21,2018-11-25,,abu-dhabi,Formula 1 2018 Etihad Airways Abu Dhabi Grand Prix,yas-marina,RACE,55,,,False,21-abu-dhabi
+998,2019,1,2019-03-17,,australia,Formula 1 Rolex Australian Grand Prix 2019,melbourne,STREET,58,,,False,01-australia
+999,2019,2,2019-03-31,,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2019,bahrain,RACE,57,,,False,02-bahrain
+1000,2019,3,2019-04-14,,china,Formula 1 Heineken Chinese Grand Prix 2019,shanghai,RACE,56,,,False,03-china
+1001,2019,4,2019-04-28,,azerbaijan,Formula 1 SOCAR Azerbaijan Grand Prix 2019,baku,STREET,51,,,False,04-azerbaijan
+1002,2019,5,2019-05-12,,spain,Formula 1 Emirates Gran Premio de España 2019,catalunya,RACE,66,,,False,05-spain
+1003,2019,6,2019-05-26,,monaco,Formula 1 Grand Prix de Monaco 2019,monaco,STREET,78,,,False,06-monaco
+1004,2019,7,2019-06-09,,canada,Formula 1 Pirelli Grand Prix du Canada 2019,montreal,STREET,70,,,False,07-canada
+1005,2019,8,2019-06-23,,france,Formula 1 Pirelli Grand Prix de France 2019,paul-ricard,RACE,53,,,False,08-france
+1006,2019,9,2019-06-30,,austria,Formula 1 myWorld Grosser Preis von Österreich 2019,spielberg,RACE,71,,,False,09-austria
+1007,2019,10,2019-07-14,,great-britain,Formula 1 Rolex British Grand Prix 2019,silverstone,RACE,52,,,False,10-great-britain
+1008,2019,11,2019-07-28,,germany,Formula 1 Mercedes-Benz Grosser Preis von Deutschland 2019,hockenheimring,RACE,64,,,False,11-germany
+1009,2019,12,2019-08-04,,hungary,Formula 1 Rolex Magyar Nagydíj 2019,hungaroring,RACE,70,,,False,12-hungary
+1010,2019,13,2019-09-01,,belgium,Formula 1 Johnnie Walker Belgian Grand Prix 2019,spa-francorchamps,RACE,44,,,False,13-belgium
+1011,2019,14,2019-09-08,,italy,Formula 1 Gran Premio Heineken d'Italia 2019,monza,RACE,53,,,False,14-italy
+1012,2019,15,2019-09-22,,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2019,marina-bay,STREET,61,,,False,15-singapore
+1013,2019,16,2019-09-29,,russia,Formula 1 VTB Russian Grand Prix 2019,sirius,ROAD,53,,,False,16-russia
+1014,2019,17,2019-10-13,,japan,Formula 1 Japanese Grand Prix 2019,suzuka,RACE,52,,,False,17-japan
+1015,2019,18,2019-10-27,,mexico,Formula 1 Gran Premio de México 2019,mexico-city,RACE,71,,,False,18-mexico
+1016,2019,19,2019-11-03,,united-states,Formula 1 Emirates United States Grand Prix 2019,austin,RACE,56,,,False,19-united-states
+1017,2019,20,2019-11-17,,brazil,Formula 1 Heineken Grande Prêmio do Brasil 2019,interlagos,RACE,71,,,False,20-brazil
+1018,2019,21,2019-12-01,,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2019,yas-marina,RACE,55,,,False,21-abu-dhabi
+1019,2020,1,2020-07-05,,austria,Formula 1 Rolex Grosser Preis von Österreich 2020,spielberg,RACE,71,,,False,01-austria
+1020,2020,2,2020-07-12,,styria,Formula 1 Pirelli Grosser Preis der Steiermark 2020,spielberg,RACE,71,,,False,02-styria
+1021,2020,3,2020-07-19,,hungary,Formula 1 Aramco Magyar Nagydíj 2020,hungaroring,RACE,70,,,False,03-hungary
+1022,2020,4,2020-08-02,,great-britain,Formula 1 Pirelli British Grand Prix 2020,silverstone,RACE,52,,,False,04-great-britain
+1023,2020,5,2020-08-09,,70th-anniversary,Emirates Formula 1 70th Anniversary Grand Prix 2020,silverstone,RACE,52,,,False,05-70th-anniversary
+1024,2020,6,2020-08-16,,spain,Formula 1 Aramco Gran Premio de España 2020,catalunya,RACE,66,,,False,06-spain
+1025,2020,7,2020-08-30,,belgium,Formula 1 Rolex Belgian Grand Prix 2020,spa-francorchamps,RACE,44,,,False,07-belgium
+1026,2020,8,2020-09-06,,italy,Formula 1 Gran Premio Heineken d'Italia 2020,monza,RACE,53,,,False,08-italy
+1027,2020,9,2020-09-13,,tuscany,Formula 1 Gran Premio Della Toscana Ferrari 1000 2020,mugello,RACE,59,,,False,09-tuscany
+1028,2020,10,2020-09-27,,russia,Formula 1 VTB Russian Grand Prix 2020,sirius,ROAD,53,,,False,10-russia
+1029,2020,11,2020-10-11,,eifel,Formula 1 Aramco Grosser Preis der Eifel 2020,nurburgring,RACE,60,,,False,11-eifel
+1030,2020,12,2020-10-25,,portugal,Formula 1 Heineken Grande Prémio de Portugal 2020,portimao,RACE,66,,,False,12-portugal
+1031,2020,13,2020-11-01,,emilia-romagna,Formula 1 Emirates Gran Premio dell'Emilia Romagna 2020,imola,RACE,63,,,False,13-emilia-romagna
+1032,2020,14,2020-11-15,,turkey,Formula 1 DHL Turkish Grand Prix 2020,istanbul,RACE,58,,,False,14-turkey
+1033,2020,15,2020-11-29,,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2020,bahrain,RACE,57,,,False,15-bahrain
+1034,2020,16,2020-12-06,,sakhir,Formula 1 Rolex Sakhir Grand Prix 2020,bahrain,RACE,87,,,False,16-sakhir
+1035,2020,17,2020-12-13,,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2020,yas-marina,RACE,55,,,False,17-abu-dhabi
+1036,2021,1,2021-03-28,,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2021,bahrain,RACE,56,,,False,01-bahrain
+1037,2021,2,2021-04-18,,emilia-romagna,Formula 1 Pirelli Gran Premio del Made in Italy e dell'Emilia Romagna 2021,imola,RACE,63,,,False,02-emilia-romagna
+1038,2021,3,2021-05-02,,portugal,Formula 1 Heineken Grande Prémio de Portugal 2021,portimao,RACE,66,,,False,03-portugal
+1039,2021,4,2021-05-09,,spain,Formula 1 Aramco Gran Premio de España 2021,catalunya,RACE,66,,,False,04-spain
+1040,2021,5,2021-05-23,,monaco,Formula 1 Grand Prix de Monaco 2021,monaco,STREET,78,,,False,05-monaco
+1041,2021,6,2021-06-06,,azerbaijan,Formula 1 Azerbaijan Grand Prix 2021,baku,STREET,51,,,False,06-azerbaijan
+1042,2021,7,2021-06-20,,france,Formula 1 Emirates Grand Prix de France 2021,paul-ricard,RACE,53,,,False,07-france
+1043,2021,8,2021-06-27,,styria,Formula 1 BWT Grosser Preis der Steiermark 2021,spielberg,RACE,71,,,False,08-styria
+1044,2021,9,2021-07-04,,austria,Formula 1 BWT Grosser Preis von Österreich 2021,spielberg,RACE,71,,,False,09-austria
+1045,2021,10,2021-07-18,,great-britain,Formula 1 Pirelli British Grand Prix 2021,silverstone,RACE,52,,,True,10-great-britain
+1046,2021,11,2021-08-01,,hungary,Formula 1 Rolex Magyar Nagydíj 2021,hungaroring,RACE,70,,,False,11-hungary
+1047,2021,12,2021-08-29,,belgium,Formula 1 Rolex Belgian Grand Prix 2021,spa-francorchamps,RACE,1,,,False,12-belgium
+1048,2021,13,2021-09-05,,netherlands,Formula 1 Heineken Dutch Grand Prix 2021,zandvoort,RACE,72,,,False,13-netherlands
+1049,2021,14,2021-09-12,,italy,Formula 1 Heineken Gran Premio d'Italia 2021,monza,RACE,53,,,True,14-italy
+1050,2021,15,2021-09-26,,russia,Formula 1 VTB Russian Grand Prix 2021,sirius,ROAD,53,,,False,15-russia
+1051,2021,16,2021-10-10,,turkey,Formula 1 Rolex Turkish Grand Prix 2021,istanbul,RACE,58,,,False,16-turkey
+1052,2021,17,2021-10-24,,united-states,Formula 1 Aramco United States Grand Prix 2021,austin,RACE,56,,,False,17-united-states
+1053,2021,18,2021-11-07,,mexico,Formula 1 Gran Premio de la Ciudad de México 2021,mexico-city,RACE,71,,,False,18-mexico
+1054,2021,19,2021-11-14,,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2021,interlagos,RACE,71,,,True,19-sao-paulo
+1055,2021,20,2021-11-21,,qatar,Formula 1 Ooredoo Qatar Grand Prix 2021,lusail,RACE,57,,,False,20-qatar
+1056,2021,21,2021-12-05,,saudi-arabia,Formula 1 stc Saudi Arabian Grand Prix 2021,jeddah,STREET,50,,,False,21-saudi-arabia
+1057,2021,22,2021-12-12,,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2021,yas-marina,RACE,58,,,False,22-abu-dhabi
+1058,2022,1,2022-03-20,,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2022,bahrain,RACE,57,,,False,01-bahrain
+1059,2022,2,2022-03-27,,saudi-arabia,Formula 1 stc Saudi Arabian Grand Prix 2022,jeddah,STREET,50,,,False,02-saudi-arabia
+1060,2022,3,2022-04-10,,australia,Formula 1 Heineken Australian Grand Prix 2022,melbourne,STREET,58,,,False,03-australia
+1061,2022,4,2022-04-24,,emilia-romagna,Formula 1 Rolex Gran Premio dell'Emilia Romagna 2022,imola,RACE,63,,,True,04-emilia-romagna
+1062,2022,5,2022-05-08,,miami,Formula 1 Crypto.com Miami Grand Prix 2022,miami,STREET,57,,,False,05-miami
+1063,2022,6,2022-05-22,,spain,Formula 1 Pirelli Gran Premio de España 2022,catalunya,RACE,66,,,False,06-spain
+1064,2022,7,2022-05-29,,monaco,Formula 1 Grand Prix de Monaco 2022,monaco,STREET,64,,,False,07-monaco
+1065,2022,8,2022-06-12,,azerbaijan,Formula 1 Azerbaijan Grand Prix 2022,baku,STREET,51,,,False,08-azerbaijan
+1066,2022,9,2022-06-19,,canada,Formula 1 Grand Prix du Canada 2022,montreal,STREET,70,,,False,09-canada
+1067,2022,10,2022-07-03,,great-britain,Formula 1 Lenovo British Grand Prix 2022,silverstone,RACE,52,,,False,10-great-britain
+1068,2022,11,2022-07-10,,austria,Formula 1 Grosser Preis von Österreich 2022,spielberg,RACE,71,,,True,11-austria
+1069,2022,12,2022-07-24,,france,Formula 1 Lenovo Grand Prix de France 2022,paul-ricard,RACE,53,,,False,12-france
+1070,2022,13,2022-07-31,,hungary,Formula 1 Aramco Magyar Nagydíj 2022,hungaroring,RACE,70,,,False,13-hungary
+1071,2022,14,2022-08-28,,belgium,Formula 1 Rolex Belgian Grand Prix 2022,spa-francorchamps,RACE,44,,,False,14-belgium
+1072,2022,15,2022-09-04,,netherlands,Formula 1 Heineken Dutch Grand Prix 2022,zandvoort,RACE,72,,,False,15-netherlands
+1073,2022,16,2022-09-11,,italy,Formula 1 Pirelli Gran Premio d'Italia 2022,monza,RACE,53,,,False,16-italy
+1074,2022,17,2022-10-02,,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2022,marina-bay,STREET,59,,,False,17-singapore
+1075,2022,18,2022-10-09,,japan,Formula 1 Honda Japanese Grand Prix 2022,suzuka,RACE,28,,,False,18-japan
+1076,2022,19,2022-10-23,,united-states,Formula 1 Aramco United States Grand Prix 2022,austin,RACE,56,,,False,19-united-states
+1077,2022,20,2022-10-30,,mexico,Formula 1 Heineken Gran Premio de la Ciudad de México 2022,mexico-city,RACE,71,,,False,20-mexico
+1078,2022,21,2022-11-13,,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2022,interlagos,RACE,71,,,True,21-sao-paulo
+1079,2022,22,2022-11-20,,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2022,yas-marina,RACE,58,,,False,22-abu-dhabi
+1080,2023,1,2023-03-05,,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2023,bahrain,RACE,57,,,False,01-bahrain
+1081,2023,2,2023-03-19,,saudi-arabia,Formula 1 stc Saudi Arabian Grand Prix 2023,jeddah,STREET,50,,,False,02-saudi-arabia
+1082,2023,3,2023-04-02,,australia,Formula 1 Rolex Australian Grand Prix 2023,melbourne,STREET,58,,,False,03-australia
+1083,2023,4,2023-04-30,,azerbaijan,Formula 1 Azerbaijan Grand Prix 2023,baku,STREET,51,,,True,04-azerbaijan
+1084,2023,5,2023-05-07,,miami,Formula 1 Crypto.com Miami Grand Prix 2023,miami,STREET,57,,,False,05-miami
+1085,2023,6,2023-05-28,,monaco,Formula 1 Grand Prix de Monaco 2023,monaco,STREET,78,,,False,06-monaco
+1086,2023,7,2023-06-04,,spain,Formula 1 AWS Gran Premio de España 2023,catalunya,RACE,66,,,False,07-spain
+1087,2023,8,2023-06-18,,canada,Formula 1 Pirelli Grand Prix du Canada 2023,montreal,STREET,70,,,False,08-canada
+1088,2023,9,2023-07-02,,austria,Formula 1 Rolex Grosser Preis von Österreich 2023,spielberg,RACE,71,,,True,09-austria
+1089,2023,10,2023-07-09,,great-britain,Formula 1 Aramco British Grand Prix 2023,silverstone,RACE,52,,,False,10-great-britain
+1090,2023,11,2023-07-23,,hungary,Formula 1 Qatar Airways Hungarian Grand Prix 2023,hungaroring,RACE,70,,,False,11-hungary
+1091,2023,12,2023-07-30,,belgium,Formula 1 MSC Cruises Belgian Grand Prix 2023,spa-francorchamps,RACE,44,,,True,12-belgium
+1092,2023,13,2023-08-27,,netherlands,Formula 1 Heineken Dutch Grand Prix 2023,zandvoort,RACE,72,,,False,13-netherlands
+1093,2023,14,2023-09-03,,italy,Formula 1 Pirelli Gran Premio d'Italia 2023,monza,RACE,51,,,False,14-italy
+1094,2023,15,2023-09-17,,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2023,marina-bay,STREET,62,,,False,15-singapore
+1095,2023,16,2023-09-24,,japan,Formula 1 Lenovo Japanese Grand Prix 2023,suzuka,RACE,53,,,False,16-japan
+1096,2023,17,2023-10-08,,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2023,lusail,RACE,57,,,True,17-qatar
+1097,2023,18,2023-10-22,,united-states,Formula 1 Lenovo United States Grand Prix 2023,austin,RACE,56,,,True,18-united-states
+1098,2023,19,2023-10-29,,mexico,Formula 1 Gran Premio de la Ciudad de México 2023,mexico-city,RACE,71,,,False,19-mexico
+1099,2023,20,2023-11-05,,sao-paulo,Formula 1 Rolex Grande Prêmio de São Paulo 2023,interlagos,RACE,71,,,True,20-sao-paulo
+1100,2023,21,2023-11-19,,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2023,las-vegas,STREET,50,,,False,21-las-vegas
+1101,2023,22,2023-11-26,,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2023,yas-marina,RACE,58,,,False,22-abu-dhabi
+1102,2024,1,2024-03-02,15:00,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2024,bahrain,RACE,57,2024-03-01,16:00,False,01-bahrain
+1103,2024,2,2024-03-09,17:00,saudi-arabia,Formula 1 stc Saudi Arabian Grand Prix 2024,jeddah,STREET,50,2024-03-08,17:00,False,02-saudi-arabia
+1104,2024,3,2024-03-24,04:00,australia,Formula 1 Rolex Australian Grand Prix 2024,melbourne,STREET,58,2024-03-23,05:00,False,03-australia
+1105,2024,4,2024-04-07,05:00,japan,Formula 1 MSC Cruises Japanese Grand Prix 2024,suzuka,RACE,53,2024-04-06,06:00,False,04-japan
+1106,2024,5,2024-04-21,07:00,china,Formula 1 Lenovo Chinese Grand Prix 2024,shanghai,RACE,56,2024-04-20,07:00,True,05-china
+1107,2024,6,2024-05-05,20:00,miami,Formula 1 Crypto.com Miami Grand Prix 2024,miami,STREET,57,2024-05-04,20:00,True,06-miami
+1108,2024,7,2024-05-19,13:00,emilia-romagna,Formula 1 MSC Cruises Gran Premio dell'Emilia Romagna 2024,imola,RACE,63,2024-05-18,14:00,False,07-emilia-romagna
+1109,2024,8,2024-05-26,13:00,monaco,Formula 1 Grand Prix de Monaco 2024,monaco,STREET,78,2024-05-25,14:00,False,08-monaco
+1110,2024,9,2024-06-09,18:00,canada,Formula 1 Grand Prix du Canada 2024,montreal,STREET,70,2024-06-08,20:00,False,09-canada
+1111,2024,10,2024-06-23,13:00,spain,Formula 1 Aramco Gran Premio de España 2024,catalunya,RACE,66,2024-06-22,14:00,False,10-spain
+1112,2024,11,2024-06-30,13:00,austria,Formula 1 Qatar Airways Austrian Grand Prix 2024,spielberg,RACE,71,2024-06-29,14:00,True,11-austria
+1113,2024,12,2024-07-07,14:00,great-britain,Formula 1 Qatar Airways British Grand Prix 2024,silverstone,RACE,52,2024-07-06,14:00,False,12-great-britain
+1114,2024,13,2024-07-21,13:00,hungary,Formula 1 Hungarian Grand Prix 2024,hungaroring,RACE,70,2024-07-20,14:00,False,13-hungary
+1115,2024,14,2024-07-28,13:00,belgium,Formula 1 Rolex Belgian Grand Prix 2024,spa-francorchamps,RACE,44,2024-07-27,14:00,False,14-belgium
+1116,2024,15,2024-08-25,13:00,netherlands,Formula 1 Heineken Dutch Grand Prix 2024,zandvoort,RACE,72,2024-08-24,13:00,False,15-netherlands
+1117,2024,16,2024-09-01,13:00,italy,Formula 1 Pirelli Gran Premio d'Italia 2024,monza,RACE,53,2024-08-31,14:00,False,16-italy
+1118,2024,17,2024-09-15,11:00,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2024,baku,STREET,51,2024-09-14,12:00,False,17-azerbaijan
+1119,2024,18,2024-09-22,12:00,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2024,marina-bay,STREET,62,2024-09-21,13:00,False,18-singapore
+1120,2024,19,2024-10-20,19:00,united-states,Formula 1 Pirelli United States Grand Prix 2024,austin,RACE,56,2024-10-19,22:00,True,19-united-states
+1121,2024,20,2024-10-27,20:00,mexico,Formula 1 Gran Premio de la Ciudad de México 2024,mexico-city,RACE,71,2024-10-26,21:00,False,20-mexico
+1122,2024,21,2024-11-03,15:30,sao-paulo,Formula 1 Lenovo Grande Prêmio de São Paulo 2024,interlagos,RACE,69,2024-11-03,10:30,True,21-sao-paulo
+1123,2024,22,2024-11-24,06:00,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2024,las-vegas,STREET,50,2024-11-23,06:00,False,22-las-vegas
+1124,2024,23,2024-12-01,16:00,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2024,lusail,RACE,57,2024-11-30,18:00,True,23-qatar
+1125,2024,24,2024-12-08,13:00,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2024,yas-marina,RACE,58,2024-12-07,14:00,False,24-abu-dhabi
+1126,2025,1,2025-03-16,04:00,australia,Formula 1 Louis Vuitton Australian Grand Prix 2025,melbourne,STREET,57,2025-03-15,05:00,False,01-australia
+1127,2025,2,2025-03-23,07:00,china,Formula 1 Heineken Chinese Grand Prix 2025,shanghai,RACE,56,2025-03-22,07:00,True,02-china
+1128,2025,3,2025-04-06,05:00,japan,Formula 1 Lenovo Japanese Grand Prix 2025,suzuka,RACE,53,2025-04-05,06:00,False,03-japan
+1129,2025,4,2025-04-13,15:00,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2025,bahrain,RACE,57,2025-04-12,16:00,False,04-bahrain
+1130,2025,5,2025-04-20,17:00,saudi-arabia,Formula 1 stc Saudi Arabian Grand Prix 2025,jeddah,STREET,50,2025-04-19,17:00,False,05-saudi-arabia
+1131,2025,6,2025-05-04,20:00,miami,Formula 1 Crypto.com Miami Grand Prix 2025,miami,STREET,57,2025-05-03,20:00,True,06-miami
+1132,2025,7,2025-05-18,13:00,emilia-romagna,Formula 1 AWS Gran Premio del Made in Italy e dell'Emilia Romagna 2025,imola,RACE,63,2025-05-17,14:00,False,07-emilia-romagna
+1133,2025,8,2025-05-25,13:00,monaco,Formula 1 TAG Heuer Grand Prix de Monaco 2025,monaco,STREET,78,2025-05-24,14:00,False,08-monaco
+1134,2025,9,2025-06-01,13:00,spain,Formula 1 Aramco Gran Premio de España 2025,catalunya,RACE,66,2025-05-31,14:00,False,09-spain
+1135,2025,10,2025-06-15,18:00,canada,Formula 1 Pirelli Grand Prix du Canada 2025,montreal,STREET,70,2025-06-14,20:00,False,10-canada
+1136,2025,11,2025-06-29,13:00,austria,Formula 1 MSC Cruises Austrian Grand Prix 2025,spielberg,RACE,70,2025-06-28,14:00,False,11-austria
+1137,2025,12,2025-07-06,14:00,great-britain,Formula 1 Qatar Airways British Grand Prix 2025,silverstone,RACE,52,2025-07-05,14:00,False,12-great-britain
+1138,2025,13,2025-07-27,13:00,belgium,Formula 1 Moët & Chandon Belgian Grand Prix 2025,spa-francorchamps,RACE,44,2025-07-26,14:00,True,13-belgium
+1139,2025,14,2025-08-03,13:00,hungary,Formula 1 Lenovo Hungarian Grand Prix 2025,hungaroring,RACE,70,2025-08-02,14:00,False,14-hungary
+1140,2025,15,2025-08-31,13:00,netherlands,Formula 1 Heineken Dutch Grand Prix 2025,zandvoort,RACE,72,2025-08-30,13:00,False,15-netherlands
+1141,2025,16,2025-09-07,13:00,italy,Formula 1 Pirelli Gran Premio d'Italia 2025,monza,RACE,53,2025-09-06,14:00,False,16-italy
+1142,2025,17,2025-09-21,11:00,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2025,baku,STREET,51,2025-09-20,12:00,False,17-azerbaijan
+1143,2025,18,2025-10-05,12:00,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2025,marina-bay,STREET,62,2025-10-04,13:00,False,18-singapore
+1144,2025,19,2025-10-19,19:00,united-states,Formula 1 MSC Cruises United States Grand Prix 2025,austin,RACE,56,2025-10-18,21:00,True,19-united-states
+1145,2025,20,2025-10-26,20:00,mexico,Formula 1 Gran Premio de la Ciudad de México 2025,mexico-city,RACE,71,2025-10-25,21:00,False,20-mexico
+1146,2025,21,2025-11-09,17:00,sao-paulo,Formula 1 MSC Cruises Grande Prêmio de São Paulo 2025,interlagos,RACE,71,2025-11-08,18:00,True,21-sao-paulo
+1147,2025,22,2025-11-23,04:00,las-vegas,Formula 1 Heineken Las Vegas Grand Prix 2025,las-vegas,STREET,50,2025-11-22,04:00,False,22-las-vegas
+1148,2025,23,2025-11-30,16:00,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2025,lusail,RACE,57,2025-11-29,18:00,True,23-qatar
+1149,2025,24,2025-12-07,13:00,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2025,yas-marina,RACE,58,2025-12-06,14:00,False,24-abu-dhabi
+1150,2026,1,2026-03-08,04:00,australia,Formula 1 Qatar Airways Australian Grand Prix 2026,melbourne,STREET,58,2026-03-07,05:00,False,01-australia
+1151,2026,2,2026-03-15,07:00,china,Formula 1 Heineken Chinese Grand Prix 2026,shanghai,RACE,56,2026-03-14,07:00,True,02-china
+1152,2026,3,2026-03-29,05:00,japan,Formula 1 Aramco Japanese Grand Prix 2026,suzuka,RACE,53,2026-03-28,06:00,False,03-japan
+1153,2026,4,2026-05-03,17:00,miami,Formula 1 Crypto.com Miami Grand Prix 2026,miami,STREET,57,2026-05-02,20:00,True,04-miami
+1154,2026,5,2026-05-24,20:00,canada,Formula 1 Lenovo Grand Prix du Canada 2026,montreal,STREET,68,2026-05-23,20:00,True,05-canada
+1155,2026,6,2026-06-07,13:00,monaco,Formula 1 Louis Vuitton Grand Prix de Monaco 2026,monaco,STREET,78,2026-06-06,14:00,False,06-monaco
+1156,2026,7,2026-06-14,13:00,barcelona-catalunya,Formula 1 MSC Cruises Gran Premio de Barcelona-Catalunya 2026,catalunya,RACE,66,2026-06-13,14:00,False,07-barcelona-catalunya
+1157,2026,8,2026-06-28,13:00,austria,Formula 1 Lenovo Austrian Grand Prix 2026,spielberg,RACE,71,2026-06-27,14:00,False,08-austria
+1158,2026,9,2026-07-05,14:00,great-britain,Formula 1 Pirelli British Grand Prix 2026,silverstone,RACE,52,2026-07-04,15:00,True,09-great-britain
+1159,2026,10,2026-07-19,13:00,belgium,Formula 1 Moët & Chandon Belgian Grand Prix 2026,spa-francorchamps,RACE,44,2026-07-18,14:00,False,10-belgium
+1160,2026,11,2026-07-26,13:00,hungary,Formula 1 AWS Hungarian Grand Prix 2026,hungaroring,RACE,70,2026-07-25,14:00,False,11-hungary
+1161,2026,12,2026-08-23,13:00,netherlands,Formula 1 Heineken Dutch Grand Prix 2026,zandvoort,RACE,72,2026-08-22,14:00,True,12-netherlands
+1162,2026,13,2026-09-06,13:00,italy,Formula 1 Pirelli Gran Premio d'Italia 2026,monza,RACE,53,2026-09-05,14:00,False,13-italy
+1163,2026,14,2026-09-13,13:00,spain,Formula 1 TAG Heuer Gran Premio de España 2026,madring,STREET,57,2026-09-12,14:00,False,14-spain
+1164,2026,15,2026-09-26,11:00,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2026,baku,STREET,51,2026-09-25,12:00,False,15-azerbaijan
+1165,2026,16,2026-10-04,07:00,bahrain,Formula 1 Gulf Air Bahrain Grand Prix in Malaysia 2026,sepang,RACE,55,2026-10-03,08:00,False,16-bahrain
+1166,2026,17,2026-10-11,12:00,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2026,marina-bay,STREET,62,2026-10-10,13:00,True,17-singapore
+1167,2026,18,2026-10-25,20:00,united-states,Formula 1 MSC Cruises United States Grand Prix 2026,austin,RACE,56,2026-10-24,21:00,False,18-united-states
+1168,2026,19,2026-11-01,20:00,mexico,Formula 1 Gran Premio de la Ciudad de México 2026,mexico-city,RACE,71,2026-10-31,21:00,False,19-mexico
+1169,2026,20,2026-11-08,17:00,sao-paulo,Formula 1 MSC Cruises Grande Prêmio de São Paulo 2026,interlagos,RACE,71,2026-11-07,18:00,False,20-sao-paulo
+1170,2026,21,2026-11-22,04:00,las-vegas,Formula 1 Heineken Las Vegas Grand Prix 2026,las-vegas,STREET,50,2026-11-21,04:00,False,21-las-vegas
+1171,2026,22,2026-11-29,16:00,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2026,lusail,RACE,57,2026-11-28,18:00,False,22-qatar
+1172,2026,23,2026-12-06,13:00,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2026,yas-marina,RACE,58,2026-12-05,14:00,False,23-abu-dhabi

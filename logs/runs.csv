@@ -1,0 +1,6 @@
+run_at_utc,job,status,detail
+2026-11-20T09:19Z,backtest,ok,588 races
+2026-11-20T09:20Z,predict,ok,las-vegas 2026 (pre): logged 22 rows
+2026-11-20T09:26Z,backtest,ok,588 races
+2026-11-20T09:27Z,predict,ok,las-vegas 2026 (pre): logged 22 rows
+2026-11-20T09:27Z,predict,ok,las-vegas 2026 (pre): logged 22 rows

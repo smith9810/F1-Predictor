@@ -1,0 +1,3 @@
+stage,baseline,gap_pos_rps,gap_ci_low,gap_ci_high,races,model_better_share
+post,grid,-0.00728,-0.00888,-0.00572,291,0.71134
+pre,form,-0.00399,-0.0053,-0.00272,291,0.64948

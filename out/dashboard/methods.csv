@@ -1,0 +1,8 @@
+stage,method,win_ll,win_brier,podium_brier,points_brier,pos_rps,races,label
+post,grid,1.43875,0.63591,0.06866,0.16564,0.12381,291,Starting grid only
+post,model,1.39917,0.63463,0.06712,0.15303,0.11653,291,"Model, after qualifying (raw)"
+post,model_cal,1.29117,0.60891,0.06576,0.15227,,291,"Model, after qualifying (calibrated, live version)"
+post,uniform,3.01119,0.95071,0.12596,0.24933,0.17488,291,Every driver equal
+pre,form,1.7623,0.75265,0.08344,0.17213,0.12985,291,Recent qualifying form only
+pre,model,1.74847,0.7559,0.0809,0.16704,0.12586,291,"Model, before qualifying (raw)"
+pre,model_cal,1.69628,0.75718,0.08007,0.16613,,291,"Model, before qualifying (calibrated, live version)"

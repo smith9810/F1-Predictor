@@ -1,0 +1,65 @@
+# F1 predictor schedule (UTC). Public repository: GitHub Actions minutes are free.
+# Thu-Sun every 3 hours: refresh F1DB, forecast the next race (before qualifying, then again once
+#   qualifying is in F1DB), commit the log and dashboard files. Mon/Tue: score the last race.
+# 3rd of each month: rerun the walk-forward backtest and the title-decided analysis.
+name: f1-predictor
+
+on:
+  schedule:
+    - cron: "25 */3 * * 4,5,6,0"
+    - cron: "40 7 * * 1,2"
+    - cron: "10 6 3 * *"
+  workflow_dispatch:
+    inputs:
+      job:
+        description: "predict | score | backtest"
+        required: true
+        default: "predict"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: f1-predictor
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Tests (the run stops if any fail)
+        run: python -m pytest -q
+      - name: Fetch F1DB data (YAML only)
+        run: |
+          git clone --depth 1 --filter=blob:none --sparse https://github.com/f1db/f1db.git f1db
+          git -C f1db sparse-checkout set src/data/seasons src/data/circuits
+          git -C f1db log -1 --format='F1DB commit %h %cI %s'
+      - name: Update tables
+        run: python -m f1 update --f1db f1db/src/data
+      - name: Run job
+        run: |
+          JOB="${{ github.event.inputs.job }}"
+          if [ -z "$JOB" ]; then
+            case "${{ github.event.schedule }}" in
+              "40 7 * * 1,2") JOB=score ;;
+              "10 6 3 * *") JOB=backtest ;;
+              *) JOB=predict ;;
+            esac
+          fi
+          echo "JOB=$JOB" >> "$GITHUB_ENV"
+          python -m f1 "$JOB"
+      - name: Commit outputs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A data logs models out
+          if git diff --cached --quiet; then echo "nothing to commit"; exit 0; fi
+          git commit -m "f1: $JOB $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push
