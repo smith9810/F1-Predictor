@@ -9,3 +9,4 @@ run_at_utc,job,status,detail
 2026-11-21T11:29Z,predict,ok,las-vegas 2026 (post): logged 22 rows
 2026-11-21T19:33Z,predict,ok,las-vegas 2026 (post): already logged; dashboard files refreshed only
 2026-11-22T01:28Z,predict,ok,las-vegas 2026 (post): already logged; dashboard files refreshed only
+2026-11-22T11:43Z,predict,ok,qatar 2026 (pre): logged 21 rows

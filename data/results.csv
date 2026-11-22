@@ -27730,3 +27730,25 @@ race_id,season,round,driver,constructor,engine,number,pos,status,grid,laps,point
 1169,2026,20,rafael-camara,haas,ferrari,51,20.0,FIN,11.0,69.0,0.0,,False
 1169,2026,20,lance-stroll,aston-martin,honda,18,,DNF,16.0,30.0,0.0,Battery,False
 1169,2026,20,valtteri-bottas,cadillac,ferrari,77,,DNS,17.0,0.0,0.0,Wheel nut,False
+1170,2026,21,max-verstappen,red-bull,red-bull-ford,3,1.0,FIN,1.0,50.0,25.0,,False
+1170,2026,21,lando-norris,mclaren,mercedes,1,2.0,FIN,3.0,50.0,18.0,,False
+1170,2026,21,oscar-piastri,mclaren,mercedes,81,3.0,FIN,17.0,50.0,15.0,,False
+1170,2026,21,kimi-antonelli,mercedes,mercedes,12,4.0,FIN,6.0,50.0,12.0,,False
+1170,2026,21,pierre-gasly,alpine,mercedes,10,5.0,FIN,8.0,50.0,10.0,,False
+1170,2026,21,franco-colapinto,alpine,mercedes,43,6.0,FIN,9.0,50.0,8.0,,False
+1170,2026,21,lewis-hamilton,ferrari,ferrari,44,7.0,FIN,11.0,50.0,6.0,,False
+1170,2026,21,carlos-sainz-jr,williams,mercedes,55,8.0,FIN,20.0,50.0,4.0,,False
+1170,2026,21,george-russell,mercedes,mercedes,63,9.0,FIN,2.0,50.0,2.0,,False
+1170,2026,21,charles-leclerc,ferrari,ferrari,16,10.0,FIN,10.0,50.0,1.0,,False
+1170,2026,21,nico-hulkenberg,audi,audi,27,11.0,FIN,12.0,50.0,0.0,,False
+1170,2026,21,gabriel-bortoleto,audi,audi,5,12.0,FIN,13.0,50.0,0.0,,False
+1170,2026,21,oliver-bearman,haas,ferrari,87,13.0,FIN,22.0,50.0,0.0,,False
+1170,2026,21,liam-lawson,racing-bulls,red-bull-ford,30,14.0,FIN,21.0,50.0,0.0,,False
+1170,2026,21,isack-hadjar,red-bull,red-bull-ford,6,15.0,FIN,4.0,50.0,0.0,,False
+1170,2026,21,rafael-camara,haas,ferrari,51,16.0,FIN,15.0,50.0,0.0,,False
+1170,2026,21,lance-stroll,aston-martin,honda,18,17.0,FIN,21.0,50.0,0.0,,False
+1170,2026,21,valtteri-bottas,cadillac,ferrari,77,18.0,FIN,19.0,50.0,0.0,,False
+1170,2026,21,fernando-alonso,aston-martin,honda,14,19.0,FIN,18.0,49.0,0.0,Engine,False
+1170,2026,21,arvid-lindblad,racing-bulls,red-bull-ford,41,,DNF,5.0,19.0,0.0,Spun off,False
+1170,2026,21,sergio-perez,cadillac,ferrari,11,,DNF,16.0,17.0,0.0,Collision,False
+1170,2026,21,alexander-albon,williams,mercedes,23,,DNS,14.0,0.0,0.0,Brakes,False
