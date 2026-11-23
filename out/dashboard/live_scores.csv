@@ -1,0 +1,7 @@
+race_id,season,round,gp,stage,model_version,scored_at_utc,method,win_ll,win_brier,podium_brier,points_brier,pos_rps
+1170,2026,21,las-vegas,post,pl-v1-cal,2026-11-23T19:30:07Z,model,1.74185,0.97528,0.11862,0.15551,0.12372
+1170,2026,21,las-vegas,post,pl-v1-cal,2026-11-23T19:30:07Z,grid,0.70573,0.31765,0.08943,0.20115,0.15244
+1170,2026,21,las-vegas,pre,pl-v1,2026-11-23T19:30:08Z,model,2.34185,0.92048,0.1083,0.14083,0.12644
+1170,2026,21,las-vegas,pre,pl-v1,2026-11-23T19:30:08Z,form,3.18463,1.23119,0.17327,0.17537,0.1607
+1170,2026,21,las-vegas,pre,pl-v1-cal,2026-11-23T19:30:08Z,model,2.37499,0.96473,0.11372,0.14169,0.12644
+1170,2026,21,las-vegas,pre,pl-v1-cal,2026-11-23T19:30:08Z,form,3.18463,1.23119,0.17327,0.17537,0.1607
